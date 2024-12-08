@@ -7161,12 +7161,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2024-12-08 22:31:24 +0000"
-    },
-    "done": false
-  },
   "justhammers:recipes/tools/diamond_reinforced_hammer": {
     "criteria": {
       "has_material": "2024-12-08 20:13:52 +0000"

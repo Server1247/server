@@ -4897,12 +4897,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2024-12-08 22:31:24 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2024-12-08 22:19:19 +0000"

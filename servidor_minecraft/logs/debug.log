@@ -12813,3 +12813,53 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [08Dec2024 22:30:37.181] [Server thread/INFO] [Scaling Health/]: Blight Zombified Piglin was killed by EscorpionXL
 [08Dec2024 22:31:24.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Dec2024 22:31:24.630] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 22:32:25.535] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[08Dec2024 22:32:25.541] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-168, y=95, z=322} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[08Dec2024 22:32:25.541] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-168, y=95, z=322} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[08Dec2024 22:34:38.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [Black or White]
+[08Dec2024 22:34:43.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has reached the goal [A Small Cemetery]
+[08Dec2024 22:35:37.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [First Prayer]
+[08Dec2024 22:36:24.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 22:36:24.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 22:36:50.302] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_kitchen
+[08Dec2024 22:36:50.310] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/start1
+[08Dec2024 22:36:50.326] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower2
+[08Dec2024 22:36:50.388] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:the_lab
+[08Dec2024 22:36:50.459] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:arena
+[08Dec2024 22:36:50.486] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large7
+[08Dec2024 22:36:50.488] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small4
+[08Dec2024 22:36:50.490] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small1
+[08Dec2024 22:36:50.492] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden2
+[08Dec2024 22:36:50.494] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden1
+[08Dec2024 22:36:50.495] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large6
+[08Dec2024 22:36:50.498] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large8
+[08Dec2024 22:36:50.501] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road4
+[08Dec2024 22:36:50.503] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small3
+[08Dec2024 22:36:50.505] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road1
+[08Dec2024 22:38:23.830] [Server thread/INFO] [Scaling Health/]: Blight Piglin was killed by MohaAP
+[08Dec2024 22:38:44.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EscorpionXL moved wrongly!
+[08Dec2024 22:38:56.780] [Server thread/INFO] [Scaling Health/]: Blight Zombified Piglin was killed by MohaAP
+[08Dec2024 22:39:13.776] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/savanna_scriber_1
+[08Dec2024 22:39:14.751] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/ocean_pyramid
+[08Dec2024 22:39:28.204] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[08Dec2024 22:39:29.599] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[08Dec2024 22:39:29.616] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[08Dec2024 22:39:29.634] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[08Dec2024 22:39:29.662] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[08Dec2024 22:39:29.683] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[08Dec2024 22:39:29.714] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[08Dec2024 22:39:32.857] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:abyssal_chasm after 7s
+[08Dec2024 22:39:36.464] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[08Dec2024 22:39:40.046] [Worker-Main-336/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[08Dec2024 22:39:44.129] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree2
+[08Dec2024 22:39:44.139] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree2
+[08Dec2024 22:39:44.146] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree2
+[08Dec2024 22:39:44.154] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree3
+[08Dec2024 22:40:10.319] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[08Dec2024 22:40:10.345] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[08Dec2024 22:40:10.350] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[08Dec2024 22:41:08.346] [Worker-Main-336/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree2
+[08Dec2024 22:41:08.354] [Worker-Main-336/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree1
+[08Dec2024 22:41:23.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [Sea? Not a Problem]
+[08Dec2024 22:41:24.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 22:41:24.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

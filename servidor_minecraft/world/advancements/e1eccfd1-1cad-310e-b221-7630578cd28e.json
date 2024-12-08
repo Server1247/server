@@ -8482,6 +8482,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave": "2024-12-08 22:34:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-08 22:41:23 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/diamond_impact_hammer": {
     "criteria": {
       "has_material": "2024-12-08 22:11:32 +0000"
@@ -8494,6 +8506,24 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_pray": {
+    "criteria": {
+      "coded_trigger": "2024-12-08 22:35:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2024-12-08 22:34:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_grave_marble": {
+    "criteria": {
+      "has_grave_marble": "2024-12-08 22:34:38 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2024-12-08 22:11:32 +0000"
@@ -8503,6 +8533,12 @@
   "justhammers:recipes/tools/diamond_destructor_hammer": {
     "criteria": {
       "has_material": "2024-12-08 22:11:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_white_marble": {
+    "criteria": {
+      "has_ingredient": "2024-12-08 22:34:38 +0000"
     },
     "done": true
   },

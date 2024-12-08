@@ -3080,3 +3080,11 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [08Dec2024 22:25:33.431] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
 [08Dec2024 22:26:19.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Noisy Lover Soul]
 [08Dec2024 22:30:37.181] [Server thread/INFO] [Scaling Health/]: Blight Zombified Piglin was killed by EscorpionXL
+[08Dec2024 22:34:38.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [Black or White]
+[08Dec2024 22:34:43.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has reached the goal [A Small Cemetery]
+[08Dec2024 22:35:37.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [First Prayer]
+[08Dec2024 22:38:23.830] [Server thread/INFO] [Scaling Health/]: Blight Piglin was killed by MohaAP
+[08Dec2024 22:38:44.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EscorpionXL moved wrongly!
+[08Dec2024 22:38:56.780] [Server thread/INFO] [Scaling Health/]: Blight Zombified Piglin was killed by MohaAP
+[08Dec2024 22:39:32.857] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:abyssal_chasm after 7s
+[08Dec2024 22:41:23.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [Sea? Not a Problem]
