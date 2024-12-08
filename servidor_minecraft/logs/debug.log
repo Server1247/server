@@ -9889,3 +9889,8 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [08Dec2024 19:35:58.902] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/99827, l='ServerLevel[world]', x=-6733.30, y=93.01, z=-4702.30] died: Dinnerbone was slain by MohaAP
 [08Dec2024 19:36:17.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Dec2024 19:36:17.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 19:37:43.470] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/106984, l='ServerLevel[world]', x=-656.63, y=-256.00, z=-1831.12] died, message: 'Villager was killed'
+[08Dec2024 19:41:17.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 19:41:17.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 19:46:17.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 19:46:17.546] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

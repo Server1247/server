@@ -1601,3 +1601,4 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [08Dec2024 19:34:58.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/99877, l='ServerLevel[world]', x=-6743.70, y=85.01, z=-4727.30] died: Dinnerbone was slain by MohaAP
 [08Dec2024 19:35:06.495] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/99875, l='ServerLevel[world]', x=-6733.30, y=85.01, z=-4735.00] died: Dinnerbone was slain by MohaAP
 [08Dec2024 19:35:58.902] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/99827, l='ServerLevel[world]', x=-6733.30, y=93.01, z=-4702.30] died: Dinnerbone was slain by MohaAP
+[08Dec2024 19:37:43.470] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/106984, l='ServerLevel[world]', x=-656.63, y=-256.00, z=-1831.12] died, message: 'Villager was killed'
