@@ -7190,6 +7190,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2024-12-08 19:30:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/iron_hippogryph_armor": {
     "criteria": {
       "has_item": "2024-12-08 18:53:27 +0000"

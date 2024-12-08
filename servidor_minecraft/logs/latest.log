@@ -1567,3 +1567,37 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [08Dec2024 19:24:58.917] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [08Dec2024 19:24:58.918] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
 [08Dec2024 19:24:59.630] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[08Dec2024 19:28:49.391] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xCarlosJaraX[/127.245.147.152:34327] logged in with entity id 97311 at (-650.7422771072836, 278.0, -1813.7062510509963)
+[08Dec2024 19:28:49.393] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to xCarlosJaraX
+[08Dec2024 19:28:49.393] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to xCarlosJaraX
+[08Dec2024 19:28:49.394] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to xCarlosJaraX
+[08Dec2024 19:28:49.394] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to xCarlosJaraX
+[08Dec2024 19:28:49.397] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to xCarlosJaraX
+[08Dec2024 19:28:49.400] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to xCarlosJaraX
+[08Dec2024 19:28:49.401] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to xCarlosJaraX
+[08Dec2024 19:28:49.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX joined the game
+[08Dec2024 19:28:49.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Christmas]
+[08Dec2024 19:28:49.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Mysterious Gift]
+[08Dec2024 19:28:52.261] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xCarlosJaraX (18)
+[08Dec2024 19:28:52.262] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xCarlosJaraX
+[08Dec2024 19:29:02.640] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c2a23614-6a93-3a01-be93-db0eeadf10ae
+[08Dec2024 19:29:03.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c2a23614-6a93-3a01-be93-db0eeadf10ae
+[08Dec2024 19:29:03.643] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) successfully connected to voice chat
+[08Dec2024 19:29:24.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> que dice mi gente linda y bellaaa
+[08Dec2024 19:30:22.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Super Creeps]
+[08Dec2024 19:31:39.203] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/100315, l='ServerLevel[world]', x=-6754.70, y=77.01, z=-4737.70] died: Dinnerbone was slain by MohaAP
+[08Dec2024 19:31:44.548] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/99879, l='ServerLevel[world]', x=-6753.70, y=74.01, z=-4732.70] died: Dinnerbone was slain by MohaAP
+[08Dec2024 19:31:53.302] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/99880, l='ServerLevel[world]', x=-6748.30, y=75.01, z=-4738.70] died: Dinnerbone was slain by MohaAP
+[08Dec2024 19:31:55.104] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/100316, l='ServerLevel[world]', x=-6746.30, y=77.01, z=-4735.70] died: Dinnerbone was slain by MohaAP
+[08Dec2024 19:32:43.903] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jamal456123 lost connection: Disconnected
+[08Dec2024 19:32:43.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 left the game
+[08Dec2024 19:32:43.907] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jamal456123
+[08Dec2024 19:34:05.001] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/101433, l='ServerLevel[world]', x=-6746.30, y=85.01, z=-4708.70] died: Dinnerbone was slain by MohaAP
+[08Dec2024 19:34:12.444] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/102430, l='ServerLevel[world]', x=-6746.30, y=85.01, z=-4706.26] died: Dinnerbone was burnt to a crisp whilst fighting MohaAP
+[08Dec2024 19:34:14.307] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/99826, l='ServerLevel[world]', x=-6754.70, y=85.01, z=-4705.30] died: Dinnerbone was slain by MohaAP
+[08Dec2024 19:34:20.498] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/101435, l='ServerLevel[world]', x=-6746.30, y=85.01, z=-4708.70] died: Dinnerbone was slain by MohaAP
+[08Dec2024 19:34:23.496] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/99825, l='ServerLevel[world]', x=-6754.70, y=85.01, z=-4705.30] died: Dinnerbone was slain by MohaAP
+[08Dec2024 19:34:27.903] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/101434, l='ServerLevel[world]', x=-6754.70, y=85.01, z=-4713.70] died: Dinnerbone was slain by MohaAP
+[08Dec2024 19:34:58.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/99877, l='ServerLevel[world]', x=-6743.70, y=85.01, z=-4727.30] died: Dinnerbone was slain by MohaAP
+[08Dec2024 19:35:06.495] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/99875, l='ServerLevel[world]', x=-6733.30, y=85.01, z=-4735.00] died: Dinnerbone was slain by MohaAP
+[08Dec2024 19:35:58.902] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/99827, l='ServerLevel[world]', x=-6733.30, y=93.01, z=-4702.30] died: Dinnerbone was slain by MohaAP
