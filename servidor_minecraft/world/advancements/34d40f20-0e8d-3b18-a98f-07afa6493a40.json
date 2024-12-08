@@ -5867,7 +5867,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-12-03 19:40:21 +0000",
       "minecraft:nether_wastes": "2024-12-03 19:30:38 +0000",
-      "minecraft:warped_forest": "2024-12-03 20:24:05 +0000"
+      "minecraft:warped_forest": "2024-12-03 20:24:05 +0000",
+      "minecraft:basalt_deltas": "2024-12-08 22:46:28 +0000"
     },
     "done": false
   },
@@ -7287,6 +7288,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2024-12-08 22:46:28 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/farseer": {
     "criteria": {
       "killed_by": "2024-12-08 19:03:54 +0000"
@@ -7332,6 +7339,12 @@
   "tombstone:adventure/use_preservation": {
     "criteria": {
       "has_magic_scroll": "2024-12-08 22:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2024-12-08 22:47:07 +0000"
     },
     "done": true
   },
