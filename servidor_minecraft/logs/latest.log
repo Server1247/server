@@ -2545,3 +2545,24 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [08Dec2024 21:38:56.532] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e1eccfd1-1cad-310e-b221-7630578cd28e
 [08Dec2024 21:38:56.532] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EscorpionXL (e1eccfd1-1cad-310e-b221-7630578cd28e) successfully connected to voice chat
 [08Dec2024 21:43:24.518] [Server thread/INFO] [Scaling Health/]: Blight Husk has died
+[08Dec2024 21:52:51.306] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jamal456123[/127.115.149.35:58917] logged in with entity id 238934 at (-660.1005070033398, 69.0, -1764.8543045980716)
+[08Dec2024 21:52:51.308] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to jamal456123
+[08Dec2024 21:52:51.308] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to jamal456123
+[08Dec2024 21:52:51.309] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to jamal456123
+[08Dec2024 21:52:51.309] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to jamal456123
+[08Dec2024 21:52:51.311] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to jamal456123
+[08Dec2024 21:52:51.313] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to jamal456123
+[08Dec2024 21:52:51.313] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to jamal456123
+[08Dec2024 21:52:51.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 joined the game
+[08Dec2024 21:52:54.959] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of jamal456123 (18)
+[08Dec2024 21:52:54.960] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to jamal456123
+[08Dec2024 21:53:02.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Zombie
+[08Dec2024 21:53:02.792] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[08Dec2024 21:53:04.298] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[08Dec2024 21:53:04.299] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[08Dec2024 21:53:06.279] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 25a9720b-eea2-3347-aa95-a163d7141072
+[08Dec2024 21:53:07.279] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 25a9720b-eea2-3347-aa95-a163d7141072
+[08Dec2024 21:53:07.280] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player jamal456123 (25a9720b-eea2-3347-aa95-a163d7141072) successfully connected to voice chat
+[08Dec2024 21:56:41.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 has made the advancement [Splintering II]
+[08Dec2024 21:56:46.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 has made the advancement [A Flaming Sword]
+[08Dec2024 22:00:00.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has reached the goal [Death Will Not Be Enough]
