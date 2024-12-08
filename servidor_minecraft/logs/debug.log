@@ -9450,3 +9450,174 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [08Dec2024 19:04:35.545] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{MohaAP})
 [08Dec2024 19:04:36.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Un poco bastante lejos la verdad
 [08Dec2024 19:04:47.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> perame voy al over
+[08Dec2024 19:06:05.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 19:06:05.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 19:07:20.918] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[08Dec2024 19:07:21.998] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[08Dec2024 19:07:22.136] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[08Dec2024 19:07:22.699] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[08Dec2024 19:07:22.751] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[08Dec2024 19:07:22.815] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[08Dec2024 19:07:22.841] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[08Dec2024 19:07:22.862] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_0
+[08Dec2024 19:07:22.873] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_0
+[08Dec2024 19:07:22.882] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_vindicator_spawner_0
+[08Dec2024 19:07:22.883] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_pillager_0
+[08Dec2024 19:07:22.884] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[08Dec2024 19:07:27.544] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[08Dec2024 19:07:27.788] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree1
+[08Dec2024 19:07:27.802] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree1
+[08Dec2024 19:07:27.816] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree1
+[08Dec2024 19:07:30.217] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[08Dec2024 19:07:32.689] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-852, y=71, z=-475} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[08Dec2024 19:07:32.690] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-852, y=71, z=-475} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[08Dec2024 19:07:32.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Lag?
+[08Dec2024 19:07:32.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11879ms or 237 ticks behind
+[08Dec2024 19:07:33.092] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree2
+[08Dec2024 19:07:33.107] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree4
+[08Dec2024 19:07:33.540] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[08Dec2024 19:07:33.565] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[08Dec2024 19:07:33.598] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[08Dec2024 19:07:33.655] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[08Dec2024 19:07:33.692] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[08Dec2024 19:07:38.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Ya
+[08Dec2024 19:07:40.859] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/illager/shoot/EAPillagerAttackGoal$CrossbowState
+[08Dec2024 19:07:44.458] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree2
+[08Dec2024 19:07:46.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> ush
+[08Dec2024 19:07:54.060] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree2
+[08Dec2024 19:07:56.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> apareci en una cueva
+[08Dec2024 19:08:11.202] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/taiga_scriber_1
+[08Dec2024 19:08:20.596] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree3
+[08Dec2024 19:08:20.613] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree3
+[08Dec2024 19:08:50.628] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[08Dec2024 19:09:48.594] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[08Dec2024 19:10:48.121] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[08Dec2024 19:11:17.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 19:11:17.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 19:11:26.766] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[08Dec2024 19:13:18.378] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree3
+[08Dec2024 19:13:33.217] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:leafless_grove/oak_birch/grove2
+[08Dec2024 19:14:52.500] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[08Dec2024 19:14:52.516] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_4 is being run through DFU (hash 9a325c1c61a4e7574103858486b5a9c17628c6a645d8ca996252f4c80c38ee3d), this will cause launch time delays
+[08Dec2024 19:14:52.516] [Worker-Main-1/INFO] [ModernFix/]: Instantiating Mojang DFU
+[08Dec2024 19:14:53.335] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[08Dec2024 19:14:53.344] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[08Dec2024 19:14:53.355] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[08Dec2024 19:14:53.371] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[08Dec2024 19:14:53.392] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[08Dec2024 19:14:53.411] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[08Dec2024 19:15:59.294] [Server thread/INFO] [Scaling Health/]: Blight Glow Squid has died
+[08Dec2024 19:16:17.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 19:16:17.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 19:17:19.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> zzz
+[08Dec2024 19:17:37.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Herobrine me está viendo mientras duermo
+[08Dec2024 19:17:50.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Pana, no se va
+[08Dec2024 19:18:00.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Ya
+[08Dec2024 19:18:17.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> no puedo dormir
+[08Dec2024 19:18:31.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Cómo qué no, poné una cama ahí en el nether y ya
+[08Dec2024 19:20:37.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> dios
+[08Dec2024 19:21:17.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 19:21:17.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 19:22:42.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> entra a grupo
+[08Dec2024 19:22:46.801] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of MohaAP: {disabled=false, disconnected=false, uuid=34d40f20-0e8d-3b18-a98f-07afa6493a40, name=MohaAP, group=b387cac4-e3e6-4c58-933a-7f8471c5bbf6}
+[08Dec2024 19:23:30.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Yo?
+[08Dec2024 19:23:34.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> sisi
+[08Dec2024 19:23:40.695] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[08Dec2024 19:23:40.697] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[08Dec2024 19:23:40.703] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[08Dec2024 19:23:40.703] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[08Dec2024 19:23:40.703] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[08Dec2024 19:23:40.703] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[08Dec2024 19:23:40.704] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[08Dec2024 19:23:40.715] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[08Dec2024 19:23:40.723] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[08Dec2024 19:23:40.723] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[08Dec2024 19:23:50.959] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[08Dec2024 19:23:50.979] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[08Dec2024 19:23:54.512] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree2
+[08Dec2024 19:24:06.645] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[08Dec2024 19:24:11.189] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/taiga_scriber_1
+[08Dec2024 19:24:30.899] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[08Dec2024 19:24:36.688] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree2
+[08Dec2024 19:24:43.804] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree1
+[08Dec2024 19:24:45.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Voy
+[08Dec2024 19:24:49.285] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/ocean_pyramid
+[08Dec2024 19:24:53.774] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[08Dec2024 19:24:53.801] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_0
+[08Dec2024 19:24:53.812] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_0
+[08Dec2024 19:24:53.895] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[08Dec2024 19:24:53.919] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[08Dec2024 19:24:53.927] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[08Dec2024 19:24:53.944] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[08Dec2024 19:24:53.957] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[08Dec2024 19:24:53.966] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[08Dec2024 19:24:54.020] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[08Dec2024 19:24:54.062] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_0
+[08Dec2024 19:24:54.072] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[08Dec2024 19:24:54.096] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[08Dec2024 19:24:54.111] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[08Dec2024 19:24:54.119] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[08Dec2024 19:24:54.128] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_2
+[08Dec2024 19:24:54.129] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_6
+[08Dec2024 19:24:54.130] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_4
+[08Dec2024 19:24:54.133] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_7
+[08Dec2024 19:24:54.134] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_1
+[08Dec2024 19:24:54.134] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_2_middle
+[08Dec2024 19:24:54.135] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_3_base
+[08Dec2024 19:24:54.135] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_0_top
+[08Dec2024 19:24:54.138] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_0
+[08Dec2024 19:24:54.142] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_3
+[08Dec2024 19:24:54.145] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_5
+[08Dec2024 19:24:54.177] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_inner_top_0
+[08Dec2024 19:24:54.204] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_0
+[08Dec2024 19:24:54.225] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_7
+[08Dec2024 19:24:54.234] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_2
+[08Dec2024 19:24:54.240] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_4
+[08Dec2024 19:24:54.245] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_6
+[08Dec2024 19:24:54.261] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_3
+[08Dec2024 19:24:54.280] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_5
+[08Dec2024 19:24:54.288] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_1
+[08Dec2024 19:24:54.339] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_inner_part_0
+[08Dec2024 19:24:54.353] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_4
+[08Dec2024 19:24:54.358] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_2
+[08Dec2024 19:24:54.364] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_5
+[08Dec2024 19:24:54.366] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_6
+[08Dec2024 19:24:54.370] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_3
+[08Dec2024 19:24:54.374] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_7
+[08Dec2024 19:24:54.376] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_1
+[08Dec2024 19:24:54.381] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_0
+[08Dec2024 19:24:54.389] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_level_1
+[08Dec2024 19:24:54.396] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_level_0
+[08Dec2024 19:24:54.403] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_level_2
+[08Dec2024 19:24:54.406] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_wither_skeleton_0
+[08Dec2024 19:24:54.406] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_cave_spider_1
+[08Dec2024 19:24:54.407] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_cave_spider_0
+[08Dec2024 19:24:54.407] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_skeleton_0
+[08Dec2024 19:24:54.409] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_6
+[08Dec2024 19:24:54.410] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_7
+[08Dec2024 19:24:54.411] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_4
+[08Dec2024 19:24:54.413] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_1
+[08Dec2024 19:24:54.414] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_8
+[08Dec2024 19:24:54.415] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_2
+[08Dec2024 19:24:54.417] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_5
+[08Dec2024 19:24:54.419] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_3
+[08Dec2024 19:24:54.421] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_0
+[08Dec2024 19:24:57.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Zombie
+[08Dec2024 19:24:57.719] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[08Dec2024 19:24:57.720] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$PlacementType
+[08Dec2024 19:24:57.721] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$PlaceType
+[08Dec2024 19:24:57.727] [Server thread/DEBUG] [tombstone/]: A new grave of the player EscorpionXL was created at position [x:-1403, y:92, z:2561, dim:minecraft:overworld]
+[08Dec2024 19:24:57.755] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[08Dec2024 19:24:58.917] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[08Dec2024 19:24:58.918] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[08Dec2024 19:24:58.930] [Server thread/DEBUG] [twilightforest/]: Player EscorpionXL (e1eccfd1-1cad-310e-b221-7630578cd28e) respawned and received items held in storage
+[08Dec2024 19:24:59.630] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[08Dec2024 19:25:07.886] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:leafless_grove/oak_birch/grove2
+[08Dec2024 19:25:11.032] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:redstone_torch_trail/trail2
+[08Dec2024 19:25:12.257] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:mausoleum/building
+[08Dec2024 19:25:42.340] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[08Dec2024 19:25:42.350] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[08Dec2024 19:25:42.369] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[08Dec2024 19:25:54.755] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of EscorpionXL: {disabled=false, disconnected=false, uuid=e1eccfd1-1cad-310e-b221-7630578cd28e, name=EscorpionXL, group=b387cac4-e3e6-4c58-933a-7f8471c5bbf6}
+[08Dec2024 19:26:17.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 19:26:17.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

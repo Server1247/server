@@ -7172,6 +7172,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/farseer": {
+    "criteria": {
+      "killed_by": "2024-12-08 19:03:54 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/gold_hippogryph_armor": {
     "criteria": {
       "has_item": "2024-12-08 18:54:16 +0000"

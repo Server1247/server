@@ -1524,3 +1524,46 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [08Dec2024 19:04:35.545] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{MohaAP})
 [08Dec2024 19:04:36.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Un poco bastante lejos la verdad
 [08Dec2024 19:04:47.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> perame voy al over
+[08Dec2024 19:07:20.918] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[08Dec2024 19:07:27.544] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[08Dec2024 19:07:32.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Lag?
+[08Dec2024 19:07:32.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11879ms or 237 ticks behind
+[08Dec2024 19:07:38.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Ya
+[08Dec2024 19:07:40.859] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/illager/shoot/EAPillagerAttackGoal$CrossbowState
+[08Dec2024 19:07:46.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> ush
+[08Dec2024 19:07:56.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> apareci en una cueva
+[08Dec2024 19:11:26.766] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[08Dec2024 19:14:52.516] [Worker-Main-1/INFO] [ModernFix/]: Instantiating Mojang DFU
+[08Dec2024 19:15:59.294] [Server thread/INFO] [Scaling Health/]: Blight Glow Squid has died
+[08Dec2024 19:17:19.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> zzz
+[08Dec2024 19:17:37.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Herobrine me está viendo mientras duermo
+[08Dec2024 19:17:50.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Pana, no se va
+[08Dec2024 19:18:00.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Ya
+[08Dec2024 19:18:17.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> no puedo dormir
+[08Dec2024 19:18:31.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Cómo qué no, poné una cama ahí en el nether y ya
+[08Dec2024 19:20:37.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> dios
+[08Dec2024 19:22:42.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> entra a grupo
+[08Dec2024 19:23:30.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Yo?
+[08Dec2024 19:23:34.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> sisi
+[08Dec2024 19:23:40.695] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[08Dec2024 19:23:40.697] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[08Dec2024 19:23:40.703] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[08Dec2024 19:23:40.703] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[08Dec2024 19:23:40.703] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[08Dec2024 19:23:40.703] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[08Dec2024 19:23:40.704] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[08Dec2024 19:23:40.715] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[08Dec2024 19:23:40.723] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[08Dec2024 19:23:40.723] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[08Dec2024 19:23:50.959] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[08Dec2024 19:23:50.979] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[08Dec2024 19:24:30.899] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[08Dec2024 19:24:45.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Voy
+[08Dec2024 19:24:57.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Zombie
+[08Dec2024 19:24:57.719] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[08Dec2024 19:24:57.720] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$PlacementType
+[08Dec2024 19:24:57.721] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$PlaceType
+[08Dec2024 19:24:57.755] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[08Dec2024 19:24:58.917] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[08Dec2024 19:24:58.918] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[08Dec2024 19:24:59.630] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
