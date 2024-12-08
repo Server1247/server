@@ -11979,3 +11979,10 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [08Dec2024 21:38:56.532] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EscorpionXL (e1eccfd1-1cad-310e-b221-7630578cd28e) successfully connected to voice chat
 [08Dec2024 21:38:56.625] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of EscorpionXL: {disabled=false, disconnected=false, uuid=e1eccfd1-1cad-310e-b221-7630578cd28e, name=EscorpionXL, group=null}
 [08Dec2024 21:38:59.927] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of EscorpionXL: {disabled=false, disconnected=false, uuid=e1eccfd1-1cad-310e-b221-7630578cd28e, name=EscorpionXL, group=b387cac4-e3e6-4c58-933a-7f8471c5bbf6}
+[08Dec2024 21:41:24.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 21:41:24.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 21:43:24.518] [Server thread/INFO] [Scaling Health/]: Blight Husk has died
+[08Dec2024 21:46:24.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 21:46:24.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 21:47:43.549] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/snowy_scriber_1
+[08Dec2024 21:49:18.246] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
