@@ -1602,3 +1602,29 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [08Dec2024 19:35:06.495] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/99875, l='ServerLevel[world]', x=-6733.30, y=85.01, z=-4735.00] died: Dinnerbone was slain by MohaAP
 [08Dec2024 19:35:58.902] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/99827, l='ServerLevel[world]', x=-6733.30, y=93.01, z=-4702.30] died: Dinnerbone was slain by MohaAP
 [08Dec2024 19:37:43.470] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/106984, l='ServerLevel[world]', x=-656.63, y=-256.00, z=-1831.12] died, message: 'Villager was killed'
+[08Dec2024 19:49:32.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [When in Rome]
+[08Dec2024 19:49:59.993] [Server thread/INFO] [Scaling Health/]: Blight Glow Squid has died
+[08Dec2024 19:51:36.644] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EscorpionXL lost connection: Disconnected
+[08Dec2024 19:51:36.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL left the game
+[08Dec2024 19:51:36.645] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EscorpionXL
+[08Dec2024 19:52:19.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has reached the goal [To be or not to be]
+[08Dec2024 19:52:39.311] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EscorpionXL[/127.55.174.252:34057] logged in with entity id 119212 at (-1365.9465157900127, 113.03104150205048, 2576.206191931461)
+[08Dec2024 19:52:39.313] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to EscorpionXL
+[08Dec2024 19:52:39.313] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to EscorpionXL
+[08Dec2024 19:52:39.313] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to EscorpionXL
+[08Dec2024 19:52:39.314] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to EscorpionXL
+[08Dec2024 19:52:39.316] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to EscorpionXL
+[08Dec2024 19:52:39.319] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to EscorpionXL
+[08Dec2024 19:52:39.319] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to EscorpionXL
+[08Dec2024 19:52:39.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL joined the game
+[08Dec2024 19:52:40.735] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EscorpionXL (18)
+[08Dec2024 19:52:40.736] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EscorpionXL
+[08Dec2024 19:52:43.858] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e1eccfd1-1cad-310e-b221-7630578cd28e
+[08Dec2024 19:52:44.863] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e1eccfd1-1cad-310e-b221-7630578cd28e
+[08Dec2024 19:52:44.863] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EscorpionXL (e1eccfd1-1cad-310e-b221-7630578cd28e) successfully connected to voice chat
+[08Dec2024 19:52:45.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Zombie
+[08Dec2024 19:52:45.235] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[08Dec2024 19:52:46.385] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[08Dec2024 19:52:46.386] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[08Dec2024 19:53:59.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has reached the goal [Traveling lightning rod]
+[08Dec2024 19:54:14.732] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/gen/WorldGenMyrmexHive$RoomType
