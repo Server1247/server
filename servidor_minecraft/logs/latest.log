@@ -2493,3 +2493,10 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [08Dec2024 20:43:58.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL left the game
 [08Dec2024 20:43:58.336] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EscorpionXL
 [08Dec2024 20:48:11.023] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[08Dec2024 20:51:28.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Vengeance Spirit
+[08Dec2024 20:51:28.597] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[08Dec2024 20:51:29.861] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[08Dec2024 20:51:29.862] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[08Dec2024 20:59:34.134] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xCarlosJaraX lost connection: Disconnected
+[08Dec2024 20:59:34.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX left the game
+[08Dec2024 20:59:34.136] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xCarlosJaraX
