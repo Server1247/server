@@ -76,6 +76,7 @@
       "lavender_forest": "2024-12-02 06:32:34 +0000",
       "mediterranean_forest": "2024-12-01 04:53:35 +0000",
       "coniferous_forest": "2024-12-01 03:31:48 +0000",
+      "forested_field": "2024-12-08 20:30:14 +0000",
       "dryland": "2024-12-01 05:28:21 +0000",
       "wasteland": "2024-12-02 01:23:50 +0000",
       "old_growth_dead_forest": "2024-12-01 03:00:00 +0000",
@@ -456,6 +457,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-08 20:30:47 +0000",
       "minecraft:deep_ocean": "2024-12-01 04:47:54 +0000",
       "minecraft:frozen_river": "2024-12-01 03:03:15 +0000",
       "minecraft:sunflower_plains": "2024-12-02 06:04:59 +0000",
@@ -5403,6 +5405,48 @@
   "iceandfire:iceandfire/dragonbone_flaming_sword": {
     "criteria": {
       "sword": "2024-12-08 20:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-08 20:34:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-08 20:33:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-08 20:33:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-08 20:34:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-08 20:34:39 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/prism": {
+    "criteria": {
+      "has_item": "2024-12-08 20:33:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-08 20:33:05 +0000"
     },
     "done": true
   },

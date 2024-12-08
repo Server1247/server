@@ -1204,6 +1204,7 @@
       "minecraft:jungle": "2024-12-03 16:46:23 +0000",
       "minecraft:snowy_beach": "2024-12-02 05:47:51 +0000",
       "minecraft:windswept_savanna": "2024-11-28 03:46:38 +0000",
+      "minecraft:warm_ocean": "2024-12-08 20:32:09 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-11-28 04:05:06 +0000",
       "minecraft:flower_forest": "2024-11-29 03:28:37 +0000",
       "minecraft:windswept_gravelly_hills": "2024-11-28 03:46:14 +0000",
@@ -7190,15 +7191,57 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+    "criteria": {
+      "has_item": "2024-12-08 20:33:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2024-12-08 18:50:58 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-08 20:36:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_helmet": {
+    "criteria": {
+      "has_item": "2024-12-08 20:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-08 20:31:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scales_deepblue": "2024-12-08 20:33:46 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/farseer": {
     "criteria": {
       "killed_by": "2024-12-08 19:03:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
+    "criteria": {
+      "has_sea_serpent_scales_bronze": "2024-12-08 20:36:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2024-12-08 20:33:46 +0000"
     },
     "done": true
   },
@@ -7211,6 +7254,18 @@
   "justhammers:recipes/tools/diamond_impact_hammer": {
     "criteria": {
       "has_material": "2024-12-08 20:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-08 20:31:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-08 20:31:27 +0000"
     },
     "done": true
   },
@@ -7244,15 +7299,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_bronze_leggings": {
+    "criteria": {
+      "has_item": "2024-12-08 20:36:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2024-12-08 20:25:23 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-08 20:33:46 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/prism": {
     "criteria": {
       "has_item": "2024-12-08 20:25:06 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:ocean_cleanup": {
+    "criteria": {
+      "oil_bucket": "2024-12-08 20:26:23 +0000"
     },
     "done": true
   },
@@ -7274,6 +7347,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/tame_hippocampus": {
+    "criteria": {
+      "tame_rat": "2024-12-08 20:31:58 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_guard": {
     "criteria": {
       "coded_trigger": "2024-12-08 20:09:24 +0000"
@@ -7286,6 +7365,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2024-12-08 20:33:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2024-12-08 20:25:06 +0000"
@@ -7295,6 +7380,12 @@
   "justhammers:recipes/tools/diamond_destructor_hammer": {
     "criteria": {
       "has_material": "2024-12-08 20:13:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_boots": {
+    "criteria": {
+      "has_item": "2024-12-08 20:36:07 +0000"
     },
     "done": true
   },

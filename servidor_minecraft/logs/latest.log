@@ -2472,3 +2472,18 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [08Dec2024 20:24:01.945] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
 [08Dec2024 20:25:05.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Tie me to the Mast]
 [08Dec2024 20:26:23.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Ocean Cleanup]
+[08Dec2024 20:28:23.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7104ms or 142 ticks behind
+[08Dec2024 20:28:23.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP moved too quickly! -10.18308251169401,0.005717119172672369,0.08397782029214795
+[08Dec2024 20:28:23.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xCarlosJaraX moved too quickly! 1.0801729269885527,-1.844478247056884,10.02496852265972
+[08Dec2024 20:29:41.164] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[08Dec2024 20:31:49.438] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/BoatGoals
+[08Dec2024 20:31:58.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Free Willy]
+[08Dec2024 20:32:08.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MohaAP) moved too quickly! -10.555275571768334,0.0,-1.7315578807474594
+[08Dec2024 20:32:08.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MohaAP) moved too quickly! -11.37838026091299,0.0,-1.7707079528277063
+[08Dec2024 20:33:05.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Tie me to the Mast]
+[08Dec2024 20:33:12.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Siren
+[08Dec2024 20:33:12.510] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[08Dec2024 20:33:13.911] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[08Dec2024 20:33:13.912] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[08Dec2024 20:35:08.869] [Server thread/INFO] [Scaling Health/]: Blight Husk has died
+[08Dec2024 20:38:29.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Cursed Pyramid]
