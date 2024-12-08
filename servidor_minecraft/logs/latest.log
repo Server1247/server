@@ -2445,3 +2445,30 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [08Dec2024 20:15:51.218] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/144765, l='ServerLevel[world]', x=-656.69, y=-256.00, z=-1769.01] died, message: 'Villager was killed'
 [08Dec2024 20:16:21.416] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/144828, l='ServerLevel[world]', x=-664.50, y=69.56, z=-1760.50] died, message: 'Villager was killed'
 [08Dec2024 20:17:14.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> que putas?
+[08Dec2024 20:18:14.941] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player c2a23614-6a93-3a01-be93-db0eeadf10ae timed out
+[08Dec2024 20:18:14.941] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xCarlosJaraX
+[08Dec2024 20:18:14.942] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xCarlosJaraX
+[08Dec2024 20:18:17.173] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c2a23614-6a93-3a01-be93-db0eeadf10ae
+[08Dec2024 20:18:18.172] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c2a23614-6a93-3a01-be93-db0eeadf10ae
+[08Dec2024 20:18:18.172] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) successfully connected to voice chat
+[08Dec2024 20:18:24.278] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xCarlosJaraX lost connection: Disconnected
+[08Dec2024 20:18:24.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX left the game
+[08Dec2024 20:18:24.279] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xCarlosJaraX
+[08Dec2024 20:18:30.642] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xCarlosJaraX[/127.245.147.152:40219] logged in with entity id 147293 at (-654.604246469209, 277.0, -1816.2407923684232)
+[08Dec2024 20:18:30.644] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to xCarlosJaraX
+[08Dec2024 20:18:30.645] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to xCarlosJaraX
+[08Dec2024 20:18:30.645] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to xCarlosJaraX
+[08Dec2024 20:18:30.645] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to xCarlosJaraX
+[08Dec2024 20:18:30.648] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to xCarlosJaraX
+[08Dec2024 20:18:30.651] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to xCarlosJaraX
+[08Dec2024 20:18:30.651] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to xCarlosJaraX
+[08Dec2024 20:18:30.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX joined the game
+[08Dec2024 20:18:30.891] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xCarlosJaraX (18)
+[08Dec2024 20:18:30.892] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xCarlosJaraX
+[08Dec2024 20:18:35.426] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c2a23614-6a93-3a01-be93-db0eeadf10ae
+[08Dec2024 20:18:36.441] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c2a23614-6a93-3a01-be93-db0eeadf10ae
+[08Dec2024 20:18:36.441] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) successfully connected to voice chat
+[08Dec2024 20:23:59.794] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant
+[08Dec2024 20:24:01.945] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[08Dec2024 20:25:05.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Tie me to the Mast]
+[08Dec2024 20:26:23.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Ocean Cleanup]

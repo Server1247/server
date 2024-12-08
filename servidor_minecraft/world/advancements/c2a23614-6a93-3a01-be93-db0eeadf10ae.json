@@ -5376,12 +5376,6 @@
     },
     "done": true
   },
-  "betterdungeons:zombie_dungeon": {
-    "criteria": {
-      "in_better_zombie_dungeon": "2024-12-08 19:49:32 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/christmas": {
     "criteria": {
       "coded_trigger": "2024-12-08 19:28:49 +0000"
@@ -5394,9 +5388,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+  "betterdungeons:zombie_dungeon": {
     "criteria": {
-      "sword": "2024-12-08 20:06:55 +0000"
+      "in_better_zombie_dungeon": "2024-12-08 19:49:32 +0000"
     },
     "done": true
   },
@@ -5405,6 +5399,12 @@
       "in_better_zombie_dungeon": "2024-12-08 19:49:32 +0000"
     },
     "done": false
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2024-12-08 20:06:55 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
