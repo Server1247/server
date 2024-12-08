@@ -12744,3 +12744,21 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
   "<partial numeric data>",
   "[-28, -89, -32, 124, -83, -57, 53, -125, -115, -99, -121]"
 ]
+[08Dec2024 22:11:24.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 22:11:24.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 22:12:40.836] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[08Dec2024 22:12:40.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 has made the advancement [We Need to Go Deeper]
+[08Dec2024 22:12:40.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 has made the advancement [Incendium]
+[08Dec2024 22:12:40.928] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-680, y=63, z=-1732} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[08Dec2024 22:12:40.929] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-680, y=63, z=-1732} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[08Dec2024 22:14:48.707] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[08Dec2024 22:16:24.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 22:16:24.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 22:16:54.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 has made the advancement [Nightmare Fuel]
+[08Dec2024 22:18:52.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 has made the advancement [Those Were the Days]
+[08Dec2024 22:19:04.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Spray 'n Pray]
+[08Dec2024 22:19:15.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 has made the advancement [War Pigs]
+[08Dec2024 22:19:17.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 has made the advancement [It Belongs in a Museum]
+[08Dec2024 22:20:57.848] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[08Dec2024 22:20:57.856] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-680, y=63, z=-1732} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[08Dec2024 22:20:57.856] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-680, y=63, z=-1732} in ResourceKey[minecraft:dimension / minecraft:overworld]
