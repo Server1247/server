@@ -7221,6 +7221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-08 21:23:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
     "criteria": {
       "has_smooth_red_sandstone": "2024-12-08 21:15:41 +0000"
@@ -7239,6 +7245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-08 21:23:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_chiseled_sandstone": "2024-12-08 21:00:16 +0000"
@@ -7248,6 +7260,12 @@
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2024-12-08 20:31:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-08 21:23:03 +0000"
     },
     "done": true
   },
@@ -7320,6 +7338,12 @@
   "securitycraft:recipes/misc/crystal_quartz_item": {
     "criteria": {
       "has_prismarine_crystals": "2024-12-08 20:25:06 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/copper_stuff": {
+    "criteria": {
+      "has_wood": "2024-12-08 21:23:03 +0000"
     },
     "done": true
   },
@@ -7470,6 +7494,12 @@
   "cataclysm:find_cursed_pyramid": {
     "criteria": {
       "pyramid": "2024-12-08 20:38:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2024-12-08 21:23:03 +0000"
     },
     "done": true
   },
