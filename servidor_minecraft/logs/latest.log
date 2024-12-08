@@ -2515,3 +2515,32 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [08Dec2024 21:15:20.300] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e1eccfd1-1cad-310e-b221-7630578cd28e
 [08Dec2024 21:15:21.286] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e1eccfd1-1cad-310e-b221-7630578cd28e
 [08Dec2024 21:15:21.286] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EscorpionXL (e1eccfd1-1cad-310e-b221-7630578cd28e) successfully connected to voice chat
+[08Dec2024 21:30:18.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [Gone Bananas!]
+[08Dec2024 21:32:11.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Mohamed
+[08Dec2024 21:32:13.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> dime
+[08Dec2024 21:32:25.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Acabo de descrubir algo
+[08Dec2024 21:32:38.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> que cosa??
+[08Dec2024 21:32:57.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Parece qué las moscas del alex mobs dan esos cristales de fuerza
+[08Dec2024 21:33:28.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> nono
+[08Dec2024 21:33:30.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> JAJAJA
+[08Dec2024 21:33:36.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> Eso es aleatoreo
+[08Dec2024 21:33:43.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Aah xd
+[08Dec2024 21:34:26.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has reached the goal [Strong Undead]
+[08Dec2024 21:34:26.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has completed the challenge [Death finds a Way]
+[08Dec2024 21:37:50.573] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EscorpionXL lost connection: Disconnected
+[08Dec2024 21:37:50.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL left the game
+[08Dec2024 21:37:50.574] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EscorpionXL
+[08Dec2024 21:38:50.652] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EscorpionXL[/127.55.174.252:48863] logged in with entity id 228679 at (-1367.8910816338869, 113.0, 2586.446892871469)
+[08Dec2024 21:38:50.654] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to EscorpionXL
+[08Dec2024 21:38:50.654] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to EscorpionXL
+[08Dec2024 21:38:50.655] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to EscorpionXL
+[08Dec2024 21:38:50.655] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to EscorpionXL
+[08Dec2024 21:38:50.657] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to EscorpionXL
+[08Dec2024 21:38:50.659] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to EscorpionXL
+[08Dec2024 21:38:50.659] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to EscorpionXL
+[08Dec2024 21:38:50.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL joined the game
+[08Dec2024 21:38:52.128] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EscorpionXL (18)
+[08Dec2024 21:38:52.128] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EscorpionXL
+[08Dec2024 21:38:55.511] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e1eccfd1-1cad-310e-b221-7630578cd28e
+[08Dec2024 21:38:56.532] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e1eccfd1-1cad-310e-b221-7630578cd28e
+[08Dec2024 21:38:56.532] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EscorpionXL (e1eccfd1-1cad-310e-b221-7630578cd28e) successfully connected to voice chat

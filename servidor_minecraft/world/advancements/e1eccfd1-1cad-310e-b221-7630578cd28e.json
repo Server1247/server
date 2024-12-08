@@ -8386,5 +8386,167 @@
     },
     "done": true
   },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-08 21:37:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-08 21:37:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-08 21:37:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-08 21:37:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-08 21:37:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-08 21:37:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-08 21:37:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-08 21:37:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-08 21:37:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-08 21:37:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-08 21:37:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-08 21:37:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2024-12-08 21:27:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2024-12-08 21:27:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2024-12-08 21:27:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2024-12-08 21:27:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/purple_petal_block": {
+    "criteria": {
+      "has_item": "2024-12-08 21:27:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/purple_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-08 21:27:13 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_purple_industrial_lamp": {
+    "criteria": {
+      "has_small_purple_industrial_lamp": "2024-12-08 21:27:15 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/purple_industrial_lamp": {
+    "criteria": {
+      "has_purple_industrial_lamp": "2024-12-08 21:27:15 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/purple_flag": {
+    "criteria": {
+      "has_purple_flag": "2024-12-08 21:27:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2024-12-08 21:27:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-08 21:27:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-08 21:27:15 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2024-12-08 21:30:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-08 21:27:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_purple": {
+    "criteria": {
+      "has_item": "2024-12-08 21:27:13 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
