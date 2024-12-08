@@ -2439,3 +2439,9 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
   "[73, 38, 19, -79, 55, -38, 17, -62, 52, -62, -98]"
 ]
 [08Dec2024 20:06:55.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [A Flaming Sword]
+[08Dec2024 20:08:37.936] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/api/capability/ISoulConsumer$ConsumeResult$Result
+[08Dec2024 20:09:24.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has reached the goal [Spectral Guardian]
+[08Dec2024 20:09:33.603] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
+[08Dec2024 20:15:51.218] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/144765, l='ServerLevel[world]', x=-656.69, y=-256.00, z=-1769.01] died, message: 'Villager was killed'
+[08Dec2024 20:16:21.416] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/144828, l='ServerLevel[world]', x=-664.50, y=69.56, z=-1760.50] died, message: 'Villager was killed'
+[08Dec2024 20:17:14.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> que putas?
