@@ -8487,6 +8487,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-08 22:59:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-08 22:55:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_leggings": {
+    "criteria": {
+      "has_item": "2024-12-08 22:55:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
+    "criteria": {
+      "has_sea_serpent_scales_blue": "2024-12-08 22:55:14 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_decorative_grave": {
     "criteria": {
       "has_decorative_grave": "2024-12-08 22:34:43 +0000"
@@ -8505,9 +8529,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_blue_leggings": {
+    "criteria": {
+      "has_item": "2024-12-08 22:55:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2024-12-08 22:11:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-08 22:59:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_boots": {
+    "criteria": {
+      "has_item": "2024-12-08 22:55:14 +0000"
     },
     "done": true
   },
@@ -8523,6 +8565,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-08 22:59:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_helmet": {
+    "criteria": {
+      "has_item": "2024-12-08 22:55:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-08 22:59:19 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/prism": {
+    "criteria": {
+      "has_item": "2024-12-08 22:59:19 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_decorative_grave": {
     "criteria": {
       "has_ingredient": "2024-12-08 22:34:43 +0000"
@@ -8535,9 +8601,45 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2024-12-08 22:55:30 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2024-12-08 22:11:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_boots": {
+    "criteria": {
+      "has_item": "2024-12-08 22:55:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-08 22:55:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-08 22:59:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2024-12-08 22:55:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_green_to_sea_serpent_scale_block_green": {
+    "criteria": {
+      "has_sea_serpent_scales_green": "2024-12-08 22:55:14 +0000"
     },
     "done": true
   },
@@ -8550,6 +8652,12 @@
   "tombstone:recipes/from_white_marble": {
     "criteria": {
       "has_ingredient": "2024-12-08 22:34:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_helmet": {
+    "criteria": {
+      "has_item": "2024-12-08 22:55:14 +0000"
     },
     "done": true
   },

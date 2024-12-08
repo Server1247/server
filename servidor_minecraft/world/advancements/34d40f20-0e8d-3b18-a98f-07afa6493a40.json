@@ -67,6 +67,7 @@
       "snowblossom_grove": "2024-12-02 05:47:47 +0000",
       "rocky_shrubland": "2024-11-28 03:55:30 +0000",
       "scrubland": "2024-12-01 04:26:58 +0000",
+      "erupting_inferno": "2024-12-08 22:52:45 +0000",
       "highland": "2024-12-01 19:57:00 +0000",
       "clover_patch": "2024-12-01 20:02:02 +0000",
       "cold_desert": "2024-11-28 03:30:40 +0000",
@@ -7285,6 +7286,12 @@
   "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
     "criteria": {
       "has_sea_serpent_scales_deepblue": "2024-12-08 20:33:46 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddle_saddle": {
+    "criteria": {
+      "straddleboard": "2024-12-08 22:56:46 +0000"
     },
     "done": true
   },
