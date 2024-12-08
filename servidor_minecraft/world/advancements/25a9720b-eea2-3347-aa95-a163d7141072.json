@@ -781,8 +781,10 @@
       "minecraft:pillager": "2024-11-29 01:38:22 +0000",
       "minecraft:skeleton": "2024-11-28 02:46:05 +0000",
       "minecraft:spider": "2024-11-28 03:06:47 +0000",
+      "minecraft:piglin_brute": "2024-12-08 22:26:59 +0000",
       "minecraft:creeper": "2024-12-01 21:22:45 +0000",
       "minecraft:cave_spider": "2024-12-05 18:44:13 +0000",
+      "minecraft:piglin": "2024-12-08 22:21:04 +0000",
       "minecraft:silverfish": "2024-11-28 03:05:12 +0000",
       "minecraft:zombie": "2024-11-28 02:46:08 +0000",
       "minecraft:drowned": "2024-12-01 21:05:02 +0000",
@@ -1615,6 +1617,7 @@
       "cooked_beef": "2024-12-04 18:14:55 +0000",
       "beef": "2024-12-04 22:38:40 +0000",
       "bread": "2024-11-28 03:56:12 +0000",
+      "golden_apple": "2024-12-08 22:27:25 +0000",
       "rotten_flesh": "2024-12-03 17:04:15 +0000",
       "glow_berries": "2024-11-28 03:10:23 +0000",
       "cooked_chicken": "2024-12-05 19:01:31 +0000",
@@ -4894,6 +4897,18 @@
     },
     "done": true
   },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2024-12-08 22:31:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-08 22:19:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
       "has_item": "2024-12-08 21:56:34 +0000"
@@ -4906,9 +4921,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2024-12-08 22:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-08 22:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-08 22:28:27 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_flute": {
     "criteria": {
       "has_item": "2024-12-08 21:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-08 22:28:27 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-12-08 22:19:19 +0000"
     },
     "done": true
   },
@@ -4924,9 +4969,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2024-12-08 22:28:27 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonbone_bow": {
     "criteria": {
       "has_item": "2024-12-08 21:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-08 22:28:27 +0000"
     },
     "done": true
   },
@@ -4936,15 +4993,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2024-12-08 22:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-12-08 22:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-08 22:28:27 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_hoe": {
     "criteria": {
       "has_item": "2024-12-08 21:56:34 +0000"
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-12-08 22:16:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-08 22:28:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-12-08 21:57:18 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2024-12-08 22:19:19 +0000"
     },
     "done": true
   },
@@ -4957,6 +5050,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-08 22:12:40 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_destructor_hammer": {
+    "criteria": {
+      "has_material": "2024-12-08 22:19:19 +0000"
     },
     "done": true
   },
@@ -4978,9 +5077,27 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-08 22:19:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_pickaxe": {
     "criteria": {
       "has_item": "2024-12-08 21:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-08 22:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-08 22:28:27 +0000"
     },
     "done": true
   },
@@ -4990,9 +5107,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-08 22:28:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-12-08 22:12:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-12-08 22:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-08 22:28:27 +0000"
     },
     "done": true
   },
@@ -5002,15 +5137,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-08 22:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-08 22:18:52 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonbone_sword_fire": {
     "criteria": {
       "has_item": "2024-12-08 21:55:55 +0000"
     },
     "done": true
   },
+  "justhammers:recipes/tools/gold_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-12-08 22:19:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_horn": {
     "criteria": {
       "has_item": "2024-12-08 21:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-08 22:28:27 +0000"
     },
     "done": true
   },

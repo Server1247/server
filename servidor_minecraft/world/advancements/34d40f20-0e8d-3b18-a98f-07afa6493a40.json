@@ -7161,6 +7161,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2024-12-08 22:31:24 +0000"
+    },
+    "done": false
+  },
   "justhammers:recipes/tools/diamond_reinforced_hammer": {
     "criteria": {
       "has_material": "2024-12-08 20:13:52 +0000"
@@ -7317,6 +7323,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
+    "criteria": {
+      "has_stick": "2024-12-08 22:17:57 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/blood_sprayer": {
+    "criteria": {
+      "blood_sprayer": "2024-12-08 22:19:04 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_preservation": {
     "criteria": {
       "has_magic_scroll": "2024-12-08 22:00:00 +0000"
@@ -7383,6 +7401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-08 22:30:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2024-12-08 21:07:19 +0000"
@@ -7437,6 +7461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-08 22:30:49 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/prism": {
     "criteria": {
       "has_item": "2024-12-08 20:25:06 +0000"
@@ -7488,6 +7518,18 @@
   "cataclysm:kill_remnant": {
     "criteria": {
       "ignis": "2024-12-08 21:34:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-12-08 22:17:57 +0000"
+    },
+    "done": true
+  },
+  "botania:main/cacophonium_craft": {
+    "criteria": {
+      "cacophonium": "2024-12-08 22:26:19 +0000"
     },
     "done": true
   },
