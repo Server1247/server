@@ -1272,7 +1272,8 @@
       "rotten_flesh": "2024-12-04 19:16:10 +0000",
       "golden_carrot": "2024-12-04 03:16:09 +0000",
       "cooked_rabbit": "2024-12-08 20:02:41 +0000",
-      "cooked_chicken": "2024-12-02 02:17:43 +0000"
+      "cooked_chicken": "2024-12-02 02:17:43 +0000",
+      "cooked_salmon": "2024-12-08 20:41:28 +0000"
     },
     "done": false
   },
@@ -5414,9 +5415,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2024-12-08 20:43:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2024-12-08 20:43:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2024-12-08 20:43:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/crystal_quartz_item": {
     "criteria": {
       "has_prismarine_crystals": "2024-12-08 20:33:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-12-08 20:43:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2024-12-08 20:43:20 +0000"
     },
     "done": true
   },
@@ -5441,6 +5472,18 @@
   "botania:recipes/decorations/prism": {
     "criteria": {
       "has_item": "2024-12-08 20:33:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2024-12-08 20:42:56 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_interceptor": {
+    "criteria": {
+      "has_base_block": "2024-12-08 20:42:56 +0000"
     },
     "done": true
   },

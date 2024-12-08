@@ -2487,3 +2487,9 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [08Dec2024 20:33:13.912] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
 [08Dec2024 20:35:08.869] [Server thread/INFO] [Scaling Health/]: Blight Husk has died
 [08Dec2024 20:38:29.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Cursed Pyramid]
+[08Dec2024 20:38:58.388] [Server thread/INFO] [Scaling Health/]: Blight Death Worm has died
+[08Dec2024 20:41:36.932] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/188378, l='ServerLevel[world]', x=-360.30, y=89.00, z=4001.83] died, message: 'Villager was slain by Zombie'
+[08Dec2024 20:43:58.336] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EscorpionXL lost connection: Disconnected
+[08Dec2024 20:43:58.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL left the game
+[08Dec2024 20:43:58.336] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EscorpionXL
+[08Dec2024 20:48:11.023] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
