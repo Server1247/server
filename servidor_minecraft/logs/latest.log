@@ -1743,3 +1743,25 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [10Dec2024 03:39:54.054] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [10Dec2024 03:39:54.054] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
 [10Dec2024 03:40:24.595] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[10Dec2024 03:44:58.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Husk
+[10Dec2024 03:44:58.312] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[10Dec2024 03:44:59.417] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[10Dec2024 03:44:59.417] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[10Dec2024 03:46:07.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Husk
+[10Dec2024 03:46:07.060] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[10Dec2024 03:46:08.385] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[10Dec2024 03:46:08.386] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[10Dec2024 03:46:08.646] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[10Dec2024 03:47:34.537] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[10Dec2024 03:48:18.553] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[10Dec2024 03:48:18.555] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[10Dec2024 03:48:18.563] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[10Dec2024 03:49:22.630] [Worker-Main-24/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[10Dec2024 03:49:22.683] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2103ms or 42 ticks behind
+[10Dec2024 03:50:02.392] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/gen/WorldGenMyrmexHive$RoomType
+[10Dec2024 03:50:06.441] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[10Dec2024 03:51:53.483] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumBestiaryPages
+[10Dec2024 03:56:36.443] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/10146, l='ServerLevel[world]', x=-446.65, y=80.00, z=3988.14] died, message: 'Farmer was slain by Zombie'
+[10Dec2024 03:57:50.999] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[10Dec2024 03:57:52.256] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[10Dec2024 03:58:32.489] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
