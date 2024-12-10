@@ -1847,3 +1847,7 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [10Dec2024 04:24:13.168] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-658, y=276, z=-1809} BlockPos{x=-657, y=276, z=-1809}
 [10Dec2024 04:24:13.307] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-659, y=276, z=-1809} BlockPos{x=-658, y=276, z=-1809}
 [10Dec2024 04:24:13.360] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-659, y=276, z=-1809} BlockPos{x=-658, y=276, z=-1809}
+[10Dec2024 04:25:43.436] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18456, l='ServerLevel[world]', x=-656.51, y=-256.00, z=-1769.00] died, message: 'Villager was killed'
+[10Dec2024 04:28:08.988] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xCarlosJaraX lost connection: Disconnected
+[10Dec2024 04:28:08.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX left the game
+[10Dec2024 04:28:08.989] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xCarlosJaraX
