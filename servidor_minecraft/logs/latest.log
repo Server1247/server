@@ -1706,3 +1706,40 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [10Dec2024 03:30:48.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xCarlosJaraX lost connection: Timed out
 [10Dec2024 03:30:48.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX left the game
 [10Dec2024 03:30:48.385] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xCarlosJaraX
+[10Dec2024 03:36:27.146] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xCarlosJaraX[/127.245.147.152:46235] logged in with entity id 2221 at (-435.91180320989895, 67.0, 4375.774436857184)
+[10Dec2024 03:36:27.150] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to xCarlosJaraX
+[10Dec2024 03:36:27.150] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to xCarlosJaraX
+[10Dec2024 03:36:27.151] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to xCarlosJaraX
+[10Dec2024 03:36:27.152] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to xCarlosJaraX
+[10Dec2024 03:36:27.156] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to xCarlosJaraX
+[10Dec2024 03:36:27.161] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to xCarlosJaraX
+[10Dec2024 03:36:27.161] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to xCarlosJaraX
+[10Dec2024 03:36:27.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX joined the game
+[10Dec2024 03:36:29.986] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xCarlosJaraX (18)
+[10Dec2024 03:36:29.987] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xCarlosJaraX
+[10Dec2024 03:36:38.809] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c2a23614-6a93-3a01-be93-db0eeadf10ae
+[10Dec2024 03:36:39.808] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c2a23614-6a93-3a01-be93-db0eeadf10ae
+[10Dec2024 03:36:39.809] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) successfully connected to voice chat
+[10Dec2024 03:36:42.352] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[10Dec2024 03:36:42.352] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[10Dec2024 03:36:46.636] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[10Dec2024 03:36:46.668] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[10Dec2024 03:37:12.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Husk
+[10Dec2024 03:37:12.971] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[10Dec2024 03:37:14.046] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[10Dec2024 03:37:14.046] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[10Dec2024 03:37:44.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Husk
+[10Dec2024 03:37:44.327] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[10Dec2024 03:37:45.447] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[10Dec2024 03:37:45.447] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[10Dec2024 03:38:05.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Zombie
+[10Dec2024 03:38:05.760] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[10Dec2024 03:38:07.366] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[10Dec2024 03:38:07.367] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[10Dec2024 03:39:32.196] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[10Dec2024 03:39:32.210] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[10Dec2024 03:39:52.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Vengeance Spirit
+[10Dec2024 03:39:52.612] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[10Dec2024 03:39:54.054] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[10Dec2024 03:39:54.054] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[10Dec2024 03:40:24.595] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
