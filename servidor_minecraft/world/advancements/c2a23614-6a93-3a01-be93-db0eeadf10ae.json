@@ -5772,9 +5772,39 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-10 23:52:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_boots": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 23:47:51 +0000"
+    },
+    "done": true
+  },
   "evilcraft:fart": {
     "criteria": {
       "criteria_0": "2024-12-10 23:41:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_chestplate": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 23:47:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/silver_block_to_silver_ingot": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 23:47:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_leggings": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 23:47:54 +0000"
     },
     "done": true
   },
