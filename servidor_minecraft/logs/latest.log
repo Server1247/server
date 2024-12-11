@@ -933,3 +933,27 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [11Dec2024 01:04:59.283] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xCarlosJaraX lost connection: Timed out
 [11Dec2024 01:04:59.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX left the game
 [11Dec2024 01:04:59.284] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xCarlosJaraX
+[11Dec2024 01:13:13.993] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xCarlosJaraX[/127.245.147.152:33255] logged in with entity id 39568 at (-10.482638786643964, 57.0, -176.4970244279663)
+[11Dec2024 01:13:13.994] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to xCarlosJaraX
+[11Dec2024 01:13:13.995] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to xCarlosJaraX
+[11Dec2024 01:13:13.996] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to xCarlosJaraX
+[11Dec2024 01:13:13.996] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to xCarlosJaraX
+[11Dec2024 01:13:13.999] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to xCarlosJaraX
+[11Dec2024 01:13:14.011] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to xCarlosJaraX
+[11Dec2024 01:13:14.011] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to xCarlosJaraX
+[11Dec2024 01:13:14.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX joined the game
+[11Dec2024 01:13:17.142] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xCarlosJaraX (18)
+[11Dec2024 01:13:17.143] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xCarlosJaraX
+[11Dec2024 01:13:27.733] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c2a23614-6a93-3a01-be93-db0eeadf10ae
+[11Dec2024 01:13:28.734] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c2a23614-6a93-3a01-be93-db0eeadf10ae
+[11Dec2024 01:13:28.735] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) successfully connected to voice chat
+[11Dec2024 01:14:28.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Zombified Piglin
+[11Dec2024 01:14:28.717] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[11Dec2024 01:14:30.046] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[11Dec2024 01:14:30.046] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[11Dec2024 01:14:46.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Mano
+[11Dec2024 01:14:54.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Los piglin se enojan si picas cuarzo cerca de ellos
+[11Dec2024 01:17:03.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Zombified Piglin
+[11Dec2024 01:17:03.543] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[11Dec2024 01:17:04.944] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[11Dec2024 01:17:04.944] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty

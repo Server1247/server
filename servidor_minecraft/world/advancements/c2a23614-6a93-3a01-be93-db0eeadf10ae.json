@@ -66,6 +66,7 @@
       "snowblossom_grove": "2024-12-02 04:14:23 +0000",
       "rocky_shrubland": "2024-12-02 03:39:36 +0000",
       "scrubland": "2024-12-01 05:28:05 +0000",
+      "erupting_inferno": "2024-12-11 01:16:31 +0000",
       "highland": "2024-12-02 03:42:37 +0000",
       "clover_patch": "2024-12-04 22:59:33 +0000",
       "cold_desert": "2024-12-01 04:17:36 +0000",
@@ -5834,15 +5835,33 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
-      "log_spam_fixer": "2024-12-11 01:04:48 +0000"
+      "has_azure_bluet": "2024-12-11 00:38:19 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-11 00:44:56 +0000"
+    },
+    "done": true
   },
   "incendium:root": {
     "criteria": {
       "requirement": "2024-12-11 00:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-11 00:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-11 00:58:42 +0000"
     },
     "done": true
   },
@@ -5851,12 +5870,6 @@
       "has_item": "2024-12-11 00:59:44 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 01:04:48 +0000"
-    },
-    "done": false
   },
   "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
@@ -5882,21 +5895,9 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 01:04:48 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2024-12-11 00:59:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2024-12-11 00:44:56 +0000"
     },
     "done": true
   },
@@ -5905,24 +5906,6 @@
       "has_item": "2024-12-11 00:59:44 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 01:04:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 01:04:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 01:04:48 +0000"
-    },
-    "done": false
   },
   "botania:recipes/misc/quartz_dark": {
     "criteria": {
@@ -5942,53 +5925,11 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed_by": "2024-12-11 01:02:07 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 01:04:48 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2024-12-11 00:58:42 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 01:04:48 +0000"
-    },
-    "done": false
-  },
   "securitycraft:recipes/redstone/reinforced_observer": {
     "criteria": {
       "has_quartz": "2024-12-11 00:59:44 +0000"
     },
     "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 01:04:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 01:04:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 01:04:48 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
@@ -6002,23 +5943,17 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+  "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
-      "has_azure_bluet": "2024-12-11 00:38:19 +0000"
+      "killed_by": "2024-12-11 01:02:07 +0000"
     },
     "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-11 01:04:48 +0000"
+      "requirement": "2024-12-11 01:19:47 +0000"
     },
     "done": false
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2024-12-11 00:58:42 +0000"
-    },
-    "done": true
   },
   "DataVersion": 3465
 }
