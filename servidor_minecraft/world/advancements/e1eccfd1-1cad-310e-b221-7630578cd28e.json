@@ -8812,9 +8812,75 @@
     },
     "done": true
   },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 01:32:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 01:32:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 01:32:48 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2024-12-11 01:29:47 +0000"
+      "log_spam_fixer": "2024-12-11 01:32:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 01:32:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 01:32:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 01:32:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 01:32:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 01:32:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 01:32:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 01:32:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-11 01:32:48 +0000"
     },
     "done": false
   },
@@ -8824,9 +8890,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2024-12-11 01:32:41 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/consume_soul": {
     "criteria": {
       "coded_trigger": "2024-12-11 01:26:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2024-12-11 01:32:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2024-12-11 01:32:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-11 01:32:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2024-12-11 01:32:41 +0000"
     },
     "done": true
   },
