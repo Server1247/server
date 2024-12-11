@@ -957,3 +957,13 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [11Dec2024 01:17:03.543] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
 [11Dec2024 01:17:04.944] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [11Dec2024 01:17:04.944] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[11Dec2024 01:22:04.162] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/cyclops/cyclopscore/algorithm/Dimension
+[11Dec2024 01:25:03.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [A Terrible Fortress]
+[11Dec2024 01:25:55.753] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[11Dec2024 01:26:45.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [Magic Impregnation]
+[11Dec2024 01:26:45.986] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/api/capability/ISoulConsumer$ConsumeResult$Result
+[11Dec2024 01:26:45.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [Let The Magic Happen]
+[11Dec2024 01:29:43.334] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[11Dec2024 01:29:51.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EscorpionXL moved wrongly!
+[11Dec2024 01:30:02.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Wither Skeleton
+[11Dec2024 01:30:02.406] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
