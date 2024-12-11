@@ -20,3 +20,20 @@
 [11Dec2024 00:18:28.162] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xCarlosJaraX lost connection: Timed out
 [11Dec2024 00:18:28.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX left the game
 [11Dec2024 00:18:28.165] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xCarlosJaraX
+[11Dec2024 00:37:58.665] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xCarlosJaraX[/127.245.147.152:39163] logged in with entity id 12914 at (-402.6856275780764, 98.0, 4021.6451004427986)
+[11Dec2024 00:37:58.666] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to xCarlosJaraX
+[11Dec2024 00:37:58.666] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to xCarlosJaraX
+[11Dec2024 00:37:58.667] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to xCarlosJaraX
+[11Dec2024 00:37:58.667] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to xCarlosJaraX
+[11Dec2024 00:37:58.671] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to xCarlosJaraX
+[11Dec2024 00:37:58.676] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to xCarlosJaraX
+[11Dec2024 00:37:58.677] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to xCarlosJaraX
+[11Dec2024 00:37:58.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX joined the game
+[11Dec2024 00:38:01.417] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xCarlosJaraX (18)
+[11Dec2024 00:38:01.418] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xCarlosJaraX
+[11Dec2024 00:38:10.122] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c2a23614-6a93-3a01-be93-db0eeadf10ae
+[11Dec2024 00:38:11.124] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c2a23614-6a93-3a01-be93-db0eeadf10ae
+[11Dec2024 00:38:11.124] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) successfully connected to voice chat
+[11Dec2024 00:38:12.344] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[11Dec2024 00:38:12.344] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[11Dec2024 00:38:41.520] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13423, l='ServerLevel[world]', x=-418.28, y=98.00, z=4037.70] died, message: 'Villager was slain by Zombie'
