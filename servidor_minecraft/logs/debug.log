@@ -9253,3 +9253,7 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [11Dec2024 00:18:28.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX left the game
 [11Dec2024 00:18:28.164] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of xCarlosJaraX
 [11Dec2024 00:18:28.165] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xCarlosJaraX
+[11Dec2024 00:19:44.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 00:19:44.769] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 00:24:44.772] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 00:24:44.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
