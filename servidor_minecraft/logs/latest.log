@@ -853,3 +853,83 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [11Dec2024 00:48:05.468] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
 [11Dec2024 00:48:05.469] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
 [11Dec2024 00:48:05.477] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[11Dec2024 00:50:30.814] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[11Dec2024 00:52:21.717] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[11Dec2024 00:53:49.359] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EscorpionXL[/127.38.205.31:56293] logged in with entity id 21205 at (-1373.57659963417, 103.0, 2578.8725837102847)
+[11Dec2024 00:53:49.360] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to EscorpionXL
+[11Dec2024 00:53:49.361] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to EscorpionXL
+[11Dec2024 00:53:49.361] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to EscorpionXL
+[11Dec2024 00:53:49.361] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to EscorpionXL
+[11Dec2024 00:53:49.364] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to EscorpionXL
+[11Dec2024 00:53:49.367] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to EscorpionXL
+[11Dec2024 00:53:49.367] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to EscorpionXL
+[11Dec2024 00:53:49.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL joined the game
+[11Dec2024 00:53:50.897] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EscorpionXL (18)
+[11Dec2024 00:53:50.898] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EscorpionXL
+[11Dec2024 00:53:54.063] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e1eccfd1-1cad-310e-b221-7630578cd28e
+[11Dec2024 00:53:55.067] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e1eccfd1-1cad-310e-b221-7630578cd28e
+[11Dec2024 00:53:55.067] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EscorpionXL (e1eccfd1-1cad-310e-b221-7630578cd28e) successfully connected to voice chat
+[11Dec2024 00:54:05.999] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[11Dec2024 00:54:06.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Buenaas
+[11Dec2024 00:54:15.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> No iba a jugar pero aquí estoy JAJAJAJA
+[11Dec2024 00:54:18.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Un rato nomás
+[11Dec2024 00:54:21.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> JAJAJAJAJJA
+[11Dec2024 00:54:23.445] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
+[11Dec2024 00:55:50.650] [Worker-Main-141/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[11Dec2024 00:57:28.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> TENGO PORTAAAL
+[11Dec2024 00:57:38.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Epaa
+[11Dec2024 00:58:24.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Lightning Dragon
+[11Dec2024 00:58:24.810] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[11Dec2024 00:58:26.099] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[11Dec2024 00:58:26.100] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[11Dec2024 00:58:42.033] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[11Dec2024 00:58:42.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Incendium]
+[11Dec2024 00:58:42.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [We Need to Go Deeper]
+[11Dec2024 00:58:44.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EscorpionXL moved too quickly! 1.1974385600922233,-0.2522033402537236,10.914681992793248
+[11Dec2024 00:58:44.679] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2617ms or 52 ticks behind
+[11Dec2024 00:58:45.542] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[11Dec2024 00:58:50.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Lightning Dragon
+[11Dec2024 00:58:50.229] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[11Dec2024 00:58:51.453] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[11Dec2024 00:58:51.453] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[11Dec2024 00:59:16.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was struck with lightning by Lightning Dragon
+[11Dec2024 00:59:16.258] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[11Dec2024 00:59:16.270] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 0 in "curios" inventory handler
+[11Dec2024 00:59:18.026] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[11Dec2024 00:59:18.027] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[11Dec2024 00:59:23.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Se vienen 500 muertes
+[11Dec2024 00:59:38.595] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[11Dec2024 00:59:44.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Lightning Dragon
+[11Dec2024 00:59:44.556] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[11Dec2024 00:59:45.689] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[11Dec2024 00:59:45.689] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[11Dec2024 01:00:18.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Lightning Dragon
+[11Dec2024 01:00:18.041] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[11Dec2024 01:00:19.385] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[11Dec2024 01:00:19.386] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[11Dec2024 01:00:24.926] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
+[11Dec2024 01:00:28.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> en el nether todo me ataca?
+[11Dec2024 01:00:42.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> no hay dosiles?
+[11Dec2024 01:00:59.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Dragones?
+[11Dec2024 01:01:07.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL suffocated in a wall whilst fighting Lightning Dragon
+[11Dec2024 01:01:07.298] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[11Dec2024 01:01:08.463] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[11Dec2024 01:01:08.463] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[11Dec2024 01:01:08.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> no, mobs
+[11Dec2024 01:01:50.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Mobs buenos?=
+[11Dec2024 01:01:55.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Muy pocos
+[11Dec2024 01:01:58.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> si
+[11Dec2024 01:02:01.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> aaah
+[11Dec2024 01:02:07.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Nightmare Fuel]
+[11Dec2024 01:03:01.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Zombie
+[11Dec2024 01:03:01.652] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[11Dec2024 01:03:02.896] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[11Dec2024 01:03:02.897] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[11Dec2024 01:03:09.549] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player c2a23614-6a93-3a01-be93-db0eeadf10ae timed out
+[11Dec2024 01:03:09.550] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xCarlosJaraX
+[11Dec2024 01:03:09.551] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xCarlosJaraX
+[11Dec2024 01:03:20.978] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by EscorpionXL
+[11Dec2024 01:03:37.407] [Server thread/INFO] [Scaling Health/]: Blight Spider was killed by EscorpionXL
+[11Dec2024 01:04:59.283] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xCarlosJaraX lost connection: Timed out
+[11Dec2024 01:04:59.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX left the game
+[11Dec2024 01:04:59.284] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xCarlosJaraX
