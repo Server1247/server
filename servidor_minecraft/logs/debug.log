@@ -9213,3 +9213,43 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [11Dec2024 00:08:48.068] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
 [11Dec2024 00:08:52.319] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
 [11Dec2024 00:09:11.724] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[11Dec2024 00:09:44.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 00:09:44.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 00:09:44.889] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$14b5a60570e7453a86f3d76b3c37c31f (originally me/jellysquid/mods/lithium/mixin/ai/poi/SerializingRegionBasedStorageMixin$1)
+[11Dec2024 00:09:55.615] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/witch/darkart/DarkArtWitchGoal$Phase
+[11Dec2024 00:11:54.832] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[11Dec2024 00:12:00.627] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{xCarlosJaraX})
+[11Dec2024 00:13:07.522] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[11Dec2024 00:14:29.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Surge Protector]
+[11Dec2024 00:14:35.320] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/11458, l='ServerLevel[world]', x=-372.68, y=93.00, z=3986.28] died, message: 'Farmer was slain by Zombie'
+[11Dec2024 00:14:44.789] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 00:14:44.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 00:15:24.680] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/10174, l='ServerLevel[world]', x=-391.30, y=98.00, z=4021.93] died, message: 'Farmer was slain by xCarlosJaraX'
+[11Dec2024 00:15:24.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Neighborhood Brawl]
+[11Dec2024 00:15:41.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Zombie
+[11Dec2024 00:15:41.540] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:-403, y:98, z:4021, dim:minecraft:overworld]
+[11Dec2024 00:15:41.551] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[11Dec2024 00:15:59.983] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player c2a23614-6a93-3a01-be93-db0eeadf10ae timed out
+[11Dec2024 00:15:59.984] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xCarlosJaraX
+[11Dec2024 00:15:59.984] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to xCarlosJaraX
+[11Dec2024 00:15:59.984] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with xCarlosJaraX
+[11Dec2024 00:15:59.984] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with xCarlosJaraX
+[11Dec2024 00:15:59.984] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xCarlosJaraX
+[11Dec2024 00:15:59.985] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of c2a23614-6a93-3a01-be93-db0eeadf10ae to disconnected: {disabled=false, disconnected=true, uuid=c2a23614-6a93-3a01-be93-db0eeadf10ae, name=xCarlosJaraX, group=null}
+[11Dec2024 00:16:07.705] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:40856
+[11Dec2024 00:16:08.138] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of xCarlosJaraX: {disabled=false, disconnected=true, uuid=c2a23614-6a93-3a01-be93-db0eeadf10ae, name=xCarlosJaraX, group=null}
+[11Dec2024 00:16:08.138] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:40856
+[11Dec2024 00:16:08.139] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:40856
+[11Dec2024 00:16:08.139] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:40856
+[11Dec2024 00:16:08.139] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:40856
+[11Dec2024 00:16:08.139] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:40856
+[11Dec2024 00:16:08.139] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:40856
+[11Dec2024 00:16:08.139] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:40856
+[11Dec2024 00:16:08.139] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:40856
+[11Dec2024 00:16:08.139] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:40856
+[11Dec2024 00:16:08.139] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:40856
+[11Dec2024 00:16:08.142] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:40856
+[11Dec2024 00:18:28.162] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xCarlosJaraX lost connection: Timed out
+[11Dec2024 00:18:28.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX left the game
+[11Dec2024 00:18:28.164] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of xCarlosJaraX
+[11Dec2024 00:18:28.165] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xCarlosJaraX

@@ -4,3 +4,19 @@
 [11Dec2024 00:08:46.514] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
 [11Dec2024 00:08:52.319] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
 [11Dec2024 00:09:11.724] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[11Dec2024 00:09:55.615] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/witch/darkart/DarkArtWitchGoal$Phase
+[11Dec2024 00:11:54.832] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[11Dec2024 00:12:00.627] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{xCarlosJaraX})
+[11Dec2024 00:13:07.522] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[11Dec2024 00:14:29.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Surge Protector]
+[11Dec2024 00:14:35.320] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/11458, l='ServerLevel[world]', x=-372.68, y=93.00, z=3986.28] died, message: 'Farmer was slain by Zombie'
+[11Dec2024 00:15:24.680] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/10174, l='ServerLevel[world]', x=-391.30, y=98.00, z=4021.93] died, message: 'Farmer was slain by xCarlosJaraX'
+[11Dec2024 00:15:24.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Neighborhood Brawl]
+[11Dec2024 00:15:41.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Zombie
+[11Dec2024 00:15:41.551] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[11Dec2024 00:15:59.983] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player c2a23614-6a93-3a01-be93-db0eeadf10ae timed out
+[11Dec2024 00:15:59.984] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xCarlosJaraX
+[11Dec2024 00:15:59.984] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xCarlosJaraX
+[11Dec2024 00:18:28.162] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xCarlosJaraX lost connection: Timed out
+[11Dec2024 00:18:28.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX left the game
+[11Dec2024 00:18:28.165] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xCarlosJaraX
