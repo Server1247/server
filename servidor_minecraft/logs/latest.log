@@ -1010,3 +1010,158 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Dec2024 03:46:39.631] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP lost connection: Disconnected
 [13Dec2024 03:46:39.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP left the game
 [13Dec2024 03:46:39.632] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MohaAP
+[13Dec2024 03:48:01.598] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MohaAP[/127.213.120.98:56319] logged in with entity id 4578 at (-1371.1499026943184, 98.0625, 2582.167858803841)
+[13Dec2024 03:48:01.612] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to MohaAP
+[13Dec2024 03:48:01.613] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to MohaAP
+[13Dec2024 03:48:01.613] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to MohaAP
+[13Dec2024 03:48:01.614] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to MohaAP
+[13Dec2024 03:48:01.616] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to MohaAP
+[13Dec2024 03:48:01.617] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to MohaAP
+[13Dec2024 03:48:01.618] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to MohaAP
+[13Dec2024 03:48:01.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP joined the game
+[13Dec2024 03:48:01.989] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP lost connection: Disconnected
+[13Dec2024 03:48:01.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP left the game
+[13Dec2024 03:48:01.990] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MohaAP
+[13Dec2024 03:48:02.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[13Dec2024 03:48:12.621] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MohaAP[/127.213.120.98:45069] logged in with entity id 4909 at (-1371.1499026943184, 98.0625, 2582.167858803841)
+[13Dec2024 03:48:12.623] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to MohaAP
+[13Dec2024 03:48:12.623] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to MohaAP
+[13Dec2024 03:48:12.623] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to MohaAP
+[13Dec2024 03:48:12.624] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to MohaAP
+[13Dec2024 03:48:12.625] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to MohaAP
+[13Dec2024 03:48:12.627] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to MohaAP
+[13Dec2024 03:48:12.627] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to MohaAP
+[13Dec2024 03:48:12.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP joined the game
+[13Dec2024 03:48:12.965] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP lost connection: Disconnected
+[13Dec2024 03:48:12.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP left the game
+[13Dec2024 03:48:12.965] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MohaAP
+[13Dec2024 03:48:19.171] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MohaAP[/127.213.120.98:50457] logged in with entity id 5255 at (-1371.1499026943184, 98.0625, 2582.167858803841)
+[13Dec2024 03:48:19.173] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to MohaAP
+[13Dec2024 03:48:19.173] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to MohaAP
+[13Dec2024 03:48:19.173] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to MohaAP
+[13Dec2024 03:48:19.174] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to MohaAP
+[13Dec2024 03:48:19.176] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to MohaAP
+[13Dec2024 03:48:19.178] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to MohaAP
+[13Dec2024 03:48:19.178] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to MohaAP
+[13Dec2024 03:48:19.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP joined the game
+[13Dec2024 03:48:19.546] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP lost connection: Disconnected
+[13Dec2024 03:48:19.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP left the game
+[13Dec2024 03:48:19.547] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MohaAP
+[13Dec2024 03:49:19.622] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MohaAP[/127.213.120.98:38637] logged in with entity id 5569 at (-1371.1499026943184, 98.0625, 2582.167858803841)
+[13Dec2024 03:49:19.623] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to MohaAP
+[13Dec2024 03:49:19.624] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to MohaAP
+[13Dec2024 03:49:19.624] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to MohaAP
+[13Dec2024 03:49:19.624] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to MohaAP
+[13Dec2024 03:49:19.626] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to MohaAP
+[13Dec2024 03:49:19.628] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to MohaAP
+[13Dec2024 03:49:19.628] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to MohaAP
+[13Dec2024 03:49:19.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP joined the game
+[13Dec2024 03:49:19.972] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP lost connection: Disconnected
+[13Dec2024 03:49:19.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP left the game
+[13Dec2024 03:49:19.973] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MohaAP
+[13Dec2024 03:49:55.805] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@57f989f4[id=<null>,name=MohaAP,properties={},legacy=false] (/127.213.120.98:42271) lost connection: Disconnected
+[13Dec2024 03:50:50.894] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[13Dec2024 03:51:41.370] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MohaAP[/127.213.120.98:52095] logged in with entity id 5905 at (-1371.1499026943184, 98.0625, 2582.167858803841)
+[13Dec2024 03:51:41.372] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to MohaAP
+[13Dec2024 03:51:41.372] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to MohaAP
+[13Dec2024 03:51:41.373] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to MohaAP
+[13Dec2024 03:51:41.373] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to MohaAP
+[13Dec2024 03:51:41.374] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to MohaAP
+[13Dec2024 03:51:41.376] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to MohaAP
+[13Dec2024 03:51:41.376] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to MohaAP
+[13Dec2024 03:51:41.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP joined the game
+[13Dec2024 03:51:42.024] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[13Dec2024 03:51:42.026] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[13Dec2024 03:51:42.035] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[13Dec2024 03:51:42.187] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP lost connection: Disconnected
+[13Dec2024 03:51:42.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP left the game
+[13Dec2024 03:51:42.188] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MohaAP
+[13Dec2024 03:51:54.472] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MohaAP[/127.213.120.98:52607] logged in with entity id 6306 at (-1371.1499026943184, 98.0625, 2582.167858803841)
+[13Dec2024 03:51:54.473] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to MohaAP
+[13Dec2024 03:51:54.474] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to MohaAP
+[13Dec2024 03:51:54.474] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to MohaAP
+[13Dec2024 03:51:54.474] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to MohaAP
+[13Dec2024 03:51:54.476] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to MohaAP
+[13Dec2024 03:51:54.477] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to MohaAP
+[13Dec2024 03:51:54.477] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to MohaAP
+[13Dec2024 03:51:54.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP joined the game
+[13Dec2024 03:51:54.781] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP lost connection: Disconnected
+[13Dec2024 03:51:54.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP left the game
+[13Dec2024 03:51:54.782] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MohaAP
+[13Dec2024 03:52:02.219] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MohaAP[/127.213.120.98:49217] logged in with entity id 6633 at (-1371.1499026943184, 98.0625, 2582.167858803841)
+[13Dec2024 03:52:02.221] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to MohaAP
+[13Dec2024 03:52:02.221] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to MohaAP
+[13Dec2024 03:52:02.221] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to MohaAP
+[13Dec2024 03:52:02.222] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to MohaAP
+[13Dec2024 03:52:02.224] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to MohaAP
+[13Dec2024 03:52:02.225] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to MohaAP
+[13Dec2024 03:52:02.226] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to MohaAP
+[13Dec2024 03:52:02.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP joined the game
+[13Dec2024 03:52:02.562] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP lost connection: Disconnected
+[13Dec2024 03:52:02.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP left the game
+[13Dec2024 03:52:02.563] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MohaAP
+[13Dec2024 03:52:32.427] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MohaAP[/127.213.120.98:37813] logged in with entity id 6981 at (-1371.1499026943184, 98.0625, 2582.167858803841)
+[13Dec2024 03:52:32.429] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to MohaAP
+[13Dec2024 03:52:32.429] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to MohaAP
+[13Dec2024 03:52:32.430] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to MohaAP
+[13Dec2024 03:52:32.430] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to MohaAP
+[13Dec2024 03:52:32.431] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to MohaAP
+[13Dec2024 03:52:32.433] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to MohaAP
+[13Dec2024 03:52:32.433] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to MohaAP
+[13Dec2024 03:52:32.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP joined the game
+[13Dec2024 03:52:32.784] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP lost connection: Disconnected
+[13Dec2024 03:52:32.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP left the game
+[13Dec2024 03:52:32.784] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MohaAP
+[13Dec2024 03:52:32.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[13Dec2024 03:52:54.171] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MohaAP[/127.213.120.98:38653] logged in with entity id 7348 at (-1371.1499026943184, 98.0625, 2582.167858803841)
+[13Dec2024 03:52:54.173] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to MohaAP
+[13Dec2024 03:52:54.173] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to MohaAP
+[13Dec2024 03:52:54.174] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to MohaAP
+[13Dec2024 03:52:54.174] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to MohaAP
+[13Dec2024 03:52:54.175] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to MohaAP
+[13Dec2024 03:52:54.176] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to MohaAP
+[13Dec2024 03:52:54.177] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to MohaAP
+[13Dec2024 03:52:54.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP joined the game
+[13Dec2024 03:52:54.485] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP lost connection: Disconnected
+[13Dec2024 03:52:54.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP left the game
+[13Dec2024 03:52:54.486] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MohaAP
+[13Dec2024 03:52:54.544] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Dec2024 03:52:54.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[13Dec2024 03:53:02.675] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MohaAP[/127.213.120.98:48277] logged in with entity id 7672 at (-1371.1499026943184, 98.0625, 2582.167858803841)
+[13Dec2024 03:53:02.677] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to MohaAP
+[13Dec2024 03:53:02.678] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to MohaAP
+[13Dec2024 03:53:02.678] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to MohaAP
+[13Dec2024 03:53:02.678] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to MohaAP
+[13Dec2024 03:53:02.680] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to MohaAP
+[13Dec2024 03:53:02.682] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to MohaAP
+[13Dec2024 03:53:02.682] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to MohaAP
+[13Dec2024 03:53:02.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP joined the game
+[13Dec2024 03:53:03.075] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP lost connection: Disconnected
+[13Dec2024 03:53:03.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP left the game
+[13Dec2024 03:53:03.099] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MohaAP
+[13Dec2024 03:53:03.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[13Dec2024 03:53:11.221] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MohaAP[/127.213.120.98:41951] logged in with entity id 8042 at (-1371.1499026943184, 98.0625, 2582.167858803841)
+[13Dec2024 03:53:11.223] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to MohaAP
+[13Dec2024 03:53:11.223] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to MohaAP
+[13Dec2024 03:53:11.224] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to MohaAP
+[13Dec2024 03:53:11.224] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to MohaAP
+[13Dec2024 03:53:11.226] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to MohaAP
+[13Dec2024 03:53:11.227] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to MohaAP
+[13Dec2024 03:53:11.228] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to MohaAP
+[13Dec2024 03:53:11.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP joined the game
+[13Dec2024 03:53:11.568] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP lost connection: Disconnected
+[13Dec2024 03:53:11.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP left the game
+[13Dec2024 03:53:11.569] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MohaAP
+[13Dec2024 03:53:21.219] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MohaAP[/127.213.120.98:49941] logged in with entity id 8390 at (-1371.1499026943184, 98.0625, 2582.167858803841)
+[13Dec2024 03:53:21.221] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to MohaAP
+[13Dec2024 03:53:21.221] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to MohaAP
+[13Dec2024 03:53:21.222] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to MohaAP
+[13Dec2024 03:53:21.222] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to MohaAP
+[13Dec2024 03:53:21.224] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to MohaAP
+[13Dec2024 03:53:21.226] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to MohaAP
+[13Dec2024 03:53:21.226] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to MohaAP
+[13Dec2024 03:53:21.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP joined the game
+[13Dec2024 03:53:21.571] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP lost connection: Disconnected
+[13Dec2024 03:53:21.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP left the game
+[13Dec2024 03:53:21.572] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MohaAP
+[13Dec2024 03:56:16.344] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
