@@ -9867,3 +9867,20 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [13Dec2024 23:29:52.796] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
 [13Dec2024 23:29:52.805] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
 [13Dec2024 23:29:58.324] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-719, y=84, z=-1797} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[13Dec2024 23:30:43.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 23:30:43.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 23:31:38.735] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[13Dec2024 23:32:45.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Wither Skeleton
+[13Dec2024 23:32:45.450] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:9, y:20, z:-377, dim:minecraft:the_nether]
+[13Dec2024 23:32:45.456] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[13Dec2024 23:32:46.677] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Dec2024 23:32:46.678] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[13Dec2024 23:32:46.682] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[13Dec2024 23:32:51.872] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-719, y=84, z=-1797} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[13Dec2024 23:35:34.171] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[13Dec2024 23:35:35.782] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[13Dec2024 23:35:35.787] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-81, y=66, z=-230} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[13Dec2024 23:35:36.701] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[13Dec2024 23:35:43.356] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 23:35:43.396] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 23:36:47.199] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes

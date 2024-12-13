@@ -1693,3 +1693,11 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [13Dec2024 23:29:51.662] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
 [13Dec2024 23:29:52.796] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [13Dec2024 23:29:52.796] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[13Dec2024 23:31:38.735] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[13Dec2024 23:32:45.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Wither Skeleton
+[13Dec2024 23:32:45.456] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[13Dec2024 23:32:46.677] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Dec2024 23:32:46.678] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[13Dec2024 23:35:34.171] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[13Dec2024 23:35:35.782] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[13Dec2024 23:36:47.199] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes

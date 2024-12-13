@@ -6158,9 +6158,27 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-13 23:29:36 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/twig_wand": {
     "criteria": {
       "has_item": "2024-12-13 23:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-13 23:29:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-13 23:26:38 +0000"
     },
     "done": true
   },
@@ -6170,9 +6188,33 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/blaze_block": {
+    "criteria": {
+      "has_item": "2024-12-13 23:29:36 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/dreamwood_wand": {
     "criteria": {
       "has_item": "2024-12-13 23:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-12-13 23:26:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-13 23:29:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-13 23:29:36 +0000"
     },
     "done": true
   },
