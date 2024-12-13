@@ -9285,3 +9285,38 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [13Dec2024 23:08:43.463] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of xCarlosJaraX: {disabled=false, disconnected=false, uuid=c2a23614-6a93-3a01-be93-db0eeadf10ae, name=xCarlosJaraX, group=null}
 [13Dec2024 23:09:07.687] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
 [13Dec2024 23:09:18.087] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/silentchaos512/lib/advancements/UseItemTrigger$Target
+[13Dec2024 23:09:55.590] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[13Dec2024 23:09:56.240] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@61b21f14 for service interface com.blamejared.clumps.platform.IEventHelper
+[13Dec2024 23:09:56.241] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@b400cdc for service interface com.blamejared.clumps.platform.IPlatformHelper
+[13Dec2024 23:10:43.407] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 23:10:43.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 23:13:43.538] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player c2a23614-6a93-3a01-be93-db0eeadf10ae timed out
+[13Dec2024 23:13:43.539] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xCarlosJaraX
+[13Dec2024 23:13:43.540] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to xCarlosJaraX
+[13Dec2024 23:13:43.540] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with xCarlosJaraX
+[13Dec2024 23:13:43.540] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with xCarlosJaraX
+[13Dec2024 23:13:43.540] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xCarlosJaraX
+[13Dec2024 23:13:43.542] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of c2a23614-6a93-3a01-be93-db0eeadf10ae to disconnected: {disabled=false, disconnected=true, uuid=c2a23614-6a93-3a01-be93-db0eeadf10ae, name=xCarlosJaraX, group=null}
+[13Dec2024 23:13:43.922] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:55041
+[13Dec2024 23:13:43.922] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:55041
+[13Dec2024 23:13:43.923] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:55041
+[13Dec2024 23:13:43.923] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:55041
+[13Dec2024 23:13:43.923] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:55041
+[13Dec2024 23:13:43.923] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:55041
+[13Dec2024 23:13:43.924] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:55041
+[13Dec2024 23:13:43.924] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:55041
+[13Dec2024 23:13:43.924] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:55041
+[13Dec2024 23:13:43.924] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:55041
+[13Dec2024 23:14:33.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Wither Skeleton
+[13Dec2024 23:14:33.689] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[13Dec2024 23:14:33.692] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$PlacementType
+[13Dec2024 23:14:33.694] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$PlaceType
+[13Dec2024 23:14:33.699] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:38, y:20, z:-369, dim:minecraft:the_nether]
+[13Dec2024 23:14:33.702] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[13Dec2024 23:14:33.723] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[13Dec2024 23:15:31.825] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xCarlosJaraX lost connection: Timed out
+[13Dec2024 23:15:31.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX left the game
+[13Dec2024 23:15:31.827] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of xCarlosJaraX
+[13Dec2024 23:15:31.827] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xCarlosJaraX
+[13Dec2024 23:15:43.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 23:15:43.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
