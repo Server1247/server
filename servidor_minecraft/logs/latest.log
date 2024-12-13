@@ -1657,3 +1657,39 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [13Dec2024 23:15:31.825] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xCarlosJaraX lost connection: Timed out
 [13Dec2024 23:15:31.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX left the game
 [13Dec2024 23:15:31.827] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xCarlosJaraX
+[13Dec2024 23:23:19.980] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4db4a9e2[id=<null>,name=xCarlosJaraX,properties={},legacy=false] (/127.245.147.152:56211) lost connection: Disconnected
+[13Dec2024 23:23:26.795] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xCarlosJaraX[/127.245.147.152:59109] logged in with entity id 2654 at (38.612333516118795, 20.0, -368.6983693940386)
+[13Dec2024 23:23:26.796] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to xCarlosJaraX
+[13Dec2024 23:23:26.796] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to xCarlosJaraX
+[13Dec2024 23:23:26.797] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to xCarlosJaraX
+[13Dec2024 23:23:26.797] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to xCarlosJaraX
+[13Dec2024 23:23:26.800] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to xCarlosJaraX
+[13Dec2024 23:23:26.804] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to xCarlosJaraX
+[13Dec2024 23:23:26.804] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to xCarlosJaraX
+[13Dec2024 23:23:26.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX joined the game
+[13Dec2024 23:23:28.776] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xCarlosJaraX lost connection: Disconnected
+[13Dec2024 23:23:28.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX left the game
+[13Dec2024 23:23:28.777] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xCarlosJaraX
+[13Dec2024 23:24:05.053] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xCarlosJaraX[/127.245.147.152:57195] logged in with entity id 2721 at (38.612333516118795, 20.0, -368.6983693940386)
+[13Dec2024 23:24:05.054] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to xCarlosJaraX
+[13Dec2024 23:24:05.054] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to xCarlosJaraX
+[13Dec2024 23:24:05.055] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to xCarlosJaraX
+[13Dec2024 23:24:05.055] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to xCarlosJaraX
+[13Dec2024 23:24:05.057] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to xCarlosJaraX
+[13Dec2024 23:24:05.060] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to xCarlosJaraX
+[13Dec2024 23:24:05.061] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to xCarlosJaraX
+[13Dec2024 23:24:05.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX joined the game
+[13Dec2024 23:24:05.331] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xCarlosJaraX (18)
+[13Dec2024 23:24:05.331] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xCarlosJaraX
+[13Dec2024 23:24:14.526] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c2a23614-6a93-3a01-be93-db0eeadf10ae
+[13Dec2024 23:24:15.525] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c2a23614-6a93-3a01-be93-db0eeadf10ae
+[13Dec2024 23:24:15.526] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) successfully connected to voice chat
+[13Dec2024 23:24:15.901] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Dec2024 23:24:15.902] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[13Dec2024 23:24:20.036] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[13Dec2024 23:26:03.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xCarlosJaraX moved too quickly! -0.5767787285320765,-1.1309064997145342,-10.14216476790341
+[13Dec2024 23:29:36.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Into Fire]
+[13Dec2024 23:29:51.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Vengeance Spirit
+[13Dec2024 23:29:51.662] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[13Dec2024 23:29:52.796] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Dec2024 23:29:52.796] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
