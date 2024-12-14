@@ -9426,3 +9426,56 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [14Dec2024 03:50:09.553] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:cached_hashcode.BlockNeighborGroupMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
 [14Dec2024 03:51:46.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Dec2024 03:51:46.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 03:56:46.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 03:56:46.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 03:58:54.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Dread Beast
+[14Dec2024 03:58:54.877] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:-1232, y:78, z:1102, dim:minecraft:overworld]
+[14Dec2024 03:58:54.888] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[14Dec2024 03:58:56.063] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[14Dec2024 03:58:56.064] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[14Dec2024 03:58:56.072] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[14Dec2024 04:00:10.515] [Server thread/INFO] [Scaling Health/]: Blight Dread Beast has died
+[14Dec2024 04:00:25.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Dread Beast
+[14Dec2024 04:00:25.471] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:-1234, y:76, z:1108, dim:minecraft:overworld]
+[14Dec2024 04:00:25.483] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[14Dec2024 04:00:26.901] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[14Dec2024 04:00:26.901] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[14Dec2024 04:00:26.905] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[14Dec2024 04:00:46.660] [Server thread/INFO] [Scaling Health/]: Blight Dread Beast has died
+[14Dec2024 04:00:57.962] [Server thread/INFO] [Scaling Health/]: Blight Dread Beast was killed by xCarlosJaraX
+[14Dec2024 04:01:12.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Dread Knight
+[14Dec2024 04:01:12.266] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:-1234, y:76, z:1105, dim:minecraft:overworld]
+[14Dec2024 04:01:12.286] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[14Dec2024 04:01:13.718] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[14Dec2024 04:01:13.718] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[14Dec2024 04:01:13.722] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[14Dec2024 04:01:35.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Dread Knight
+[14Dec2024 04:01:35.515] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:-1232, y:70, z:1106, dim:minecraft:overworld]
+[14Dec2024 04:01:35.543] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[14Dec2024 04:01:37.118] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[14Dec2024 04:01:37.118] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[14Dec2024 04:01:37.123] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[14Dec2024 04:01:46.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 04:01:46.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 04:01:49.863] [Server thread/INFO] [Scaling Health/]: Blight Dread Thrall has died
+[14Dec2024 04:01:52.632] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[14Dec2024 04:01:56.082] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[14Dec2024 04:01:57.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Dread Knight
+[14Dec2024 04:01:57.023] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:-1229, y:70, z:1101, dim:minecraft:overworld]
+[14Dec2024 04:01:57.035] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[14Dec2024 04:01:57.149] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[14Dec2024 04:01:57.809] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/tunnel
+[14Dec2024 04:01:58.571] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[14Dec2024 04:01:58.571] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[14Dec2024 04:01:58.574] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[14Dec2024 04:03:42.653] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/witch/darkart/DarkArtWitchGoal$Phase
+[14Dec2024 04:03:50.975] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$87e3d2ef6c574139a7d6fdfadf7f5690 (originally me/jellysquid/mods/lithium/mixin/ai/poi/SerializingRegionBasedStorageMixin$1)
+[14Dec2024 04:03:50.979] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-680, y=63, z=-1732} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[14Dec2024 04:03:57.759] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[14Dec2024 04:04:13.859] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-81, y=66, z=-230} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[14Dec2024 04:05:26.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Dread Ghoul
+[14Dec2024 04:05:26.875] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:-1228, y:70, z:1098, dim:minecraft:overworld]
+[14Dec2024 04:05:26.881] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[14Dec2024 04:05:28.392] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[14Dec2024 04:05:28.392] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[14Dec2024 04:05:28.396] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage

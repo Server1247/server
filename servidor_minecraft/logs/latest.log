@@ -1726,3 +1726,36 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
   "[-108, 125, -65, 79, -55, -127, -16, -127, -21, 49, -58]"
 ]
 [14Dec2024 03:46:32.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Another Brick in the Wall]
+[14Dec2024 03:58:54.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Dread Beast
+[14Dec2024 03:58:54.888] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[14Dec2024 03:58:56.063] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[14Dec2024 03:58:56.064] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[14Dec2024 04:00:10.515] [Server thread/INFO] [Scaling Health/]: Blight Dread Beast has died
+[14Dec2024 04:00:25.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Dread Beast
+[14Dec2024 04:00:25.483] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[14Dec2024 04:00:26.901] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[14Dec2024 04:00:26.901] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[14Dec2024 04:00:46.660] [Server thread/INFO] [Scaling Health/]: Blight Dread Beast has died
+[14Dec2024 04:00:57.962] [Server thread/INFO] [Scaling Health/]: Blight Dread Beast was killed by xCarlosJaraX
+[14Dec2024 04:01:12.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Dread Knight
+[14Dec2024 04:01:12.286] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[14Dec2024 04:01:13.718] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[14Dec2024 04:01:13.718] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[14Dec2024 04:01:35.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Dread Knight
+[14Dec2024 04:01:35.543] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[14Dec2024 04:01:37.118] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[14Dec2024 04:01:37.118] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[14Dec2024 04:01:49.863] [Server thread/INFO] [Scaling Health/]: Blight Dread Thrall has died
+[14Dec2024 04:01:52.632] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[14Dec2024 04:01:56.082] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[14Dec2024 04:01:57.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Dread Knight
+[14Dec2024 04:01:57.035] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[14Dec2024 04:01:57.149] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[14Dec2024 04:01:58.571] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[14Dec2024 04:01:58.571] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[14Dec2024 04:03:42.653] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/witch/darkart/DarkArtWitchGoal$Phase
+[14Dec2024 04:03:57.759] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[14Dec2024 04:05:26.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Dread Ghoul
+[14Dec2024 04:05:26.881] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[14Dec2024 04:05:28.392] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[14Dec2024 04:05:28.392] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
