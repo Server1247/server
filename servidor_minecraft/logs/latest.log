@@ -2293,3 +2293,4 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
   "[50, -35, 58, 119, -33, -40, -121, 82, -5, -2, -83]"
 ]
 [14Dec2024 05:36:11.898] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26376, l='ServerLevel[world]', x=-659.60, y=-256.00, z=-1763.50] died, message: 'Villager was killed'
+[14Dec2024 05:43:57.109] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
