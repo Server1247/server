@@ -10563,3 +10563,20 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [14Dec2024 00:10:56.905] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [14Dec2024 00:10:56.905] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
 [14Dec2024 00:10:56.932] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[14Dec2024 00:13:47.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Light as a Rabbit]
+[14Dec2024 00:15:31.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Ice Dragon
+[14Dec2024 00:15:31.843] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:-1110, y:74, z:1128, dim:minecraft:overworld]
+[14Dec2024 00:15:31.849] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[14Dec2024 00:15:33.092] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[14Dec2024 00:15:33.092] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[14Dec2024 00:15:33.095] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[14Dec2024 00:15:43.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 00:15:43.356] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 00:17:50.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was frozen by Ice Dragon
+[14Dec2024 00:17:50.496] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:-1028, y:76, z:1110, dim:minecraft:overworld]
+[14Dec2024 00:17:50.501] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[14Dec2024 00:17:51.860] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[14Dec2024 00:17:51.860] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[14Dec2024 00:17:51.864] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[14Dec2024 00:20:43.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 00:20:43.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

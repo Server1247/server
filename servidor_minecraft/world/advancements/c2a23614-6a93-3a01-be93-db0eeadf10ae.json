@@ -6192,6 +6192,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2024-12-14 00:13:47 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/froststalker_kill": {
+    "criteria": {
+      "ex": "2024-12-14 00:10:46 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/animated_torch": {
     "criteria": {
       "has_item": "2024-12-14 00:00:47 +0000"
@@ -6210,9 +6222,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2024-12-14 00:12:35 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_troll": {
     "criteria": {
       "killed_fire_dragon": "2024-12-13 23:57:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-14 00:12:35 +0000"
     },
     "done": true
   },
