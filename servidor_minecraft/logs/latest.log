@@ -1826,3 +1826,32 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [14Dec2024 04:45:09.759] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes
 [14Dec2024 04:54:18.201] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/23536, l='ServerLevel[world]', x=-656.51, y=-256.00, z=-1769.00] died, message: 'Villager was killed'
 [14Dec2024 04:55:08.900] [Server thread/INFO] [Scaling Health/]: Blight Husk has died
+[14Dec2024 04:59:39.807] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xCarlosJaraX lost connection: Disconnected
+[14Dec2024 04:59:39.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX left the game
+[14Dec2024 04:59:39.808] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xCarlosJaraX
+[14Dec2024 05:01:58.053] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xCarlosJaraX[/127.245.147.152:56261] logged in with entity id 23732 at (-652.0406558435802, 277.9375, -1815.5553633295078)
+[14Dec2024 05:01:58.055] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to xCarlosJaraX
+[14Dec2024 05:01:58.056] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to xCarlosJaraX
+[14Dec2024 05:01:58.056] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to xCarlosJaraX
+[14Dec2024 05:01:58.056] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to xCarlosJaraX
+[14Dec2024 05:01:58.059] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to xCarlosJaraX
+[14Dec2024 05:01:58.063] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to xCarlosJaraX
+[14Dec2024 05:01:58.063] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to xCarlosJaraX
+[14Dec2024 05:01:58.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX joined the game
+[14Dec2024 05:01:59.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xCarlosJaraX lost connection: Disconnected
+[14Dec2024 05:01:59.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX left the game
+[14Dec2024 05:01:59.804] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xCarlosJaraX
+[14Dec2024 05:02:06.921] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xCarlosJaraX[/127.245.147.152:36405] logged in with entity id 24112 at (-652.0406558435802, 277.9375, -1815.5553633295078)
+[14Dec2024 05:02:06.923] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to xCarlosJaraX
+[14Dec2024 05:02:06.923] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to xCarlosJaraX
+[14Dec2024 05:02:06.923] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to xCarlosJaraX
+[14Dec2024 05:02:06.924] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to xCarlosJaraX
+[14Dec2024 05:02:06.926] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to xCarlosJaraX
+[14Dec2024 05:02:06.928] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to xCarlosJaraX
+[14Dec2024 05:02:06.928] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to xCarlosJaraX
+[14Dec2024 05:02:06.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX joined the game
+[14Dec2024 05:02:07.247] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xCarlosJaraX (18)
+[14Dec2024 05:02:07.247] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xCarlosJaraX
+[14Dec2024 05:02:16.755] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c2a23614-6a93-3a01-be93-db0eeadf10ae
+[14Dec2024 05:02:17.757] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c2a23614-6a93-3a01-be93-db0eeadf10ae
+[14Dec2024 05:02:17.757] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) successfully connected to voice chat
