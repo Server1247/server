@@ -1269,6 +1269,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-02 03:42:51 +0000",
       "cooked_mutton": "2024-12-01 04:32:37 +0000",
+      "chorus_fruit": "2024-12-14 04:29:44 +0000",
       "baked_potato": "2024-12-02 01:27:27 +0000",
       "apple": "2024-12-04 02:48:45 +0000",
       "spider_eye": "2024-12-04 04:33:19 +0000",
@@ -6264,105 +6265,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-14 04:25:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-14 04:25:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-14 04:25:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-14 04:25:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-14 04:25:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-14 04:25:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-14 04:25:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-14 04:25:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-14 04:25:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-14 04:25:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-14 04:25:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-14 04:25:49 +0000"
-    },
-    "done": false
-  },
   "iceandfire:recipes/building_blocks/dread_stone_face": {
     "criteria": {
       "has_item": "2024-12-14 03:42:32 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_flute": {
-    "criteria": {
-      "bestiary": "2024-12-14 04:10:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
-    "criteria": {
-      "has_chorus_fruit": "2024-12-14 04:24:32 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_forge_brick": {
-    "criteria": {
-      "forge": "2024-12-14 03:46:32 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonforge_ice_core_disabled": {
-    "criteria": {
-      "has_item": "2024-12-14 03:46:32 +0000"
     },
     "done": true
   },
@@ -6384,9 +6289,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
+  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
     "criteria": {
-      "has_item": "2024-12-14 03:46:32 +0000"
+      "has_item": "2024-12-14 03:42:32 +0000"
     },
     "done": true
   },
@@ -6396,21 +6301,45 @@
     },
     "done": true
   },
-  "dungeons_arise:find_lighthouse": {
+  "iceandfire:iceandfire/dragon_forge_brick": {
     "criteria": {
-      "location0": "2024-12-14 04:23:50 +0000"
+      "forge": "2024-12-14 03:46:32 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
+  "iceandfire:recipes/building_blocks/dragonforge_ice_core_disabled": {
     "criteria": {
-      "has_item": "2024-12-14 03:42:32 +0000"
+      "has_item": "2024-12-14 03:46:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
+    "criteria": {
+      "has_item": "2024-12-14 03:46:32 +0000"
     },
     "done": true
   },
   "iceandfire:recipes/combat/dragonbone_sword_ice": {
     "criteria": {
       "has_item": "2024-12-14 04:04:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2024-12-14 04:10:14 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2024-12-14 04:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-12-14 04:24:32 +0000"
     },
     "done": true
   },

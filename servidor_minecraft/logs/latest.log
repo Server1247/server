@@ -1788,3 +1788,32 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [14Dec2024 04:26:20.808] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xCarlosJaraX lost connection: Disconnected
 [14Dec2024 04:26:20.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX left the game
 [14Dec2024 04:26:20.809] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xCarlosJaraX
+[14Dec2024 04:28:40.821] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xCarlosJaraX[/127.245.147.152:45951] logged in with entity id 15951 at (-1604.9059529942433, 109.0, 1208.6989338265766)
+[14Dec2024 04:28:40.823] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to xCarlosJaraX
+[14Dec2024 04:28:40.824] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to xCarlosJaraX
+[14Dec2024 04:28:40.824] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to xCarlosJaraX
+[14Dec2024 04:28:40.825] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to xCarlosJaraX
+[14Dec2024 04:28:40.828] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to xCarlosJaraX
+[14Dec2024 04:28:40.831] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to xCarlosJaraX
+[14Dec2024 04:28:40.832] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to xCarlosJaraX
+[14Dec2024 04:28:40.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX joined the game
+[14Dec2024 04:28:42.908] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xCarlosJaraX lost connection: Disconnected
+[14Dec2024 04:28:42.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX left the game
+[14Dec2024 04:28:42.910] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xCarlosJaraX
+[14Dec2024 04:28:50.970] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xCarlosJaraX[/127.245.147.152:49687] logged in with entity id 16256 at (-1604.9059529942433, 109.0, 1208.6989338265766)
+[14Dec2024 04:28:50.972] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to xCarlosJaraX
+[14Dec2024 04:28:50.973] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to xCarlosJaraX
+[14Dec2024 04:28:50.973] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to xCarlosJaraX
+[14Dec2024 04:28:50.973] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to xCarlosJaraX
+[14Dec2024 04:28:50.976] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to xCarlosJaraX
+[14Dec2024 04:28:50.978] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to xCarlosJaraX
+[14Dec2024 04:28:50.978] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to xCarlosJaraX
+[14Dec2024 04:28:50.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX joined the game
+[14Dec2024 04:28:51.277] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xCarlosJaraX (18)
+[14Dec2024 04:28:51.278] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xCarlosJaraX
+[14Dec2024 04:29:01.921] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c2a23614-6a93-3a01-be93-db0eeadf10ae
+[14Dec2024 04:29:02.924] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c2a23614-6a93-3a01-be93-db0eeadf10ae
+[14Dec2024 04:29:02.924] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) successfully connected to voice chat
+[14Dec2024 04:30:40.003] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[14Dec2024 04:30:44.557] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[14Dec2024 04:36:36.593] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumBestiaryPages
