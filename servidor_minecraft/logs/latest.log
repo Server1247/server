@@ -1824,3 +1824,5 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [14Dec2024 04:42:41.856] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
 [14Dec2024 04:44:27.458] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/21517, l='ServerLevel[world]', x=-406.90, y=65.11, z=2262.82] died, message: 'Fisherman was slain by Spider'
 [14Dec2024 04:45:09.759] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes
+[14Dec2024 04:54:18.201] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/23536, l='ServerLevel[world]', x=-656.51, y=-256.00, z=-1769.00] died, message: 'Villager was killed'
+[14Dec2024 04:55:08.900] [Server thread/INFO] [Scaling Health/]: Blight Husk has died
