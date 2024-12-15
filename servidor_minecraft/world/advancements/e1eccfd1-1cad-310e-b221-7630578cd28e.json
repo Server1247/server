@@ -8890,5 +8890,11 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/deepsight": {
+    "criteria": {
+      "all_effects": "2024-12-15 20:25:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -1711,3 +1711,4 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [15Dec2024 20:13:02.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX left the game
 [15Dec2024 20:13:02.122] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xCarlosJaraX
 [15Dec2024 20:17:35.209] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/SetBlockCommand$Mode
+[15Dec2024 20:25:22.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [A Lighthouse in Your Eyes]
