@@ -6692,6 +6692,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_stone_button": {
+    "criteria": {
+      "has_the_recipe": "2024-12-15 19:54:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/scanner_door_item": {
     "criteria": {
       "has_reinforced_door": "2024-12-15 19:43:44 +0000"
