@@ -9364,3 +9364,57 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [15Dec2024 19:16:24.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> estoy re contento con esto, graciaaas
 [15Dec2024 19:16:44.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> JAJAJAJA, no pasa nada
 [15Dec2024 19:16:47.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Gracias a vos
+[15Dec2024 19:17:48.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> JAJAJAJ es con gusto, y con mucho carino
+[15Dec2024 19:18:14.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 19:18:14.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 19:20:03.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Splintering II]
+[15Dec2024 19:23:05.865] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[15Dec2024 19:23:06.242] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[15Dec2024 19:23:06.253] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight2
+[15Dec2024 19:23:06.254] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/bend1
+[15Dec2024 19:23:06.263] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight1
+[15Dec2024 19:23:06.272] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term1
+[15Dec2024 19:23:06.273] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t1
+[15Dec2024 19:23:06.273] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term3
+[15Dec2024 19:23:06.275] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t2
+[15Dec2024 19:23:06.276] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/inter1
+[15Dec2024 19:23:06.277] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term2
+[15Dec2024 19:23:06.302] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree1
+[15Dec2024 19:23:06.433] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree2
+[15Dec2024 19:23:14.277] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 19:23:14.297] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 19:23:38.760] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[15Dec2024 19:24:24.959] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[15Dec2024 19:24:24.966] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[15Dec2024 19:24:24.968] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[15Dec2024 19:24:25.222] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[15Dec2024 19:24:49.472] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[15Dec2024 19:25:21.485] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[15Dec2024 19:25:41.633] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[15Dec2024 19:26:57.693] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1317, y=67, z=2543} BlockPos{x=-1317, y=67, z=2542}
+[15Dec2024 19:26:57.748] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1317, y=67, z=2543} BlockPos{x=-1317, y=67, z=2542}
+[15Dec2024 19:26:57.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1316, y=67, z=2543} BlockPos{x=-1317, y=67, z=2543}
+[15Dec2024 19:26:58.038] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1316, y=67, z=2543} BlockPos{x=-1317, y=67, z=2543}
+[15Dec2024 19:26:58.345] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1318, y=67, z=2543} BlockPos{x=-1317, y=67, z=2543}
+[15Dec2024 19:27:03.347] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player c2a23614-6a93-3a01-be93-db0eeadf10ae timed out
+[15Dec2024 19:27:03.348] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xCarlosJaraX
+[15Dec2024 19:27:03.348] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to xCarlosJaraX
+[15Dec2024 19:27:03.348] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with xCarlosJaraX
+[15Dec2024 19:27:03.348] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with xCarlosJaraX
+[15Dec2024 19:27:03.348] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xCarlosJaraX
+[15Dec2024 19:27:03.349] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of c2a23614-6a93-3a01-be93-db0eeadf10ae to disconnected: {disabled=false, disconnected=true, uuid=c2a23614-6a93-3a01-be93-db0eeadf10ae, name=xCarlosJaraX, group=null}
+[15Dec2024 19:27:04.183] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:38996
+[15Dec2024 19:27:04.183] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:38996
+[15Dec2024 19:27:04.183] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:38996
+[15Dec2024 19:27:04.183] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:38996
+[15Dec2024 19:27:04.184] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:38996
+[15Dec2024 19:27:04.184] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:38996
+[15Dec2024 19:27:04.184] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:38996
+[15Dec2024 19:27:04.185] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:38996
+[15Dec2024 19:27:04.185] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:38996
+[15Dec2024 19:27:04.185] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:38996
+[15Dec2024 19:27:04.202] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of xCarlosJaraX: {disabled=false, disconnected=true, uuid=c2a23614-6a93-3a01-be93-db0eeadf10ae, name=xCarlosJaraX, group=null}
+[15Dec2024 19:27:13.974] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xCarlosJaraX lost connection: Disconnected
+[15Dec2024 19:27:13.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX left the game
+[15Dec2024 19:27:13.975] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of xCarlosJaraX
+[15Dec2024 19:27:13.975] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xCarlosJaraX
