@@ -2291,3 +2291,809 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [15Dec2024 21:24:12.267] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e1eccfd1-1cad-310e-b221-7630578cd28e
 [15Dec2024 21:24:12.267] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EscorpionXL (e1eccfd1-1cad-310e-b221-7630578cd28e) successfully connected to voice chat
 [15Dec2024 21:26:42.271] [Server thread/INFO] [Scaling Health/]: Blight Fly has died
+[15Dec2024 21:38:57.309] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Decoding error for packet:unknown
+java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.ConnectionProtocol$PacketSet.m_178327_(ConnectionProtocol.java:458) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.ConnectionProtocol.m_178321_(ConnectionProtocol.java:522) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.PacketDecoder.redirect$zbj000$checkDecodingError(PacketDecoder.java:568) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.PacketDecoder.decode(PacketDecoder.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.server.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar%2383!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15Dec2024 21:38:57.311] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export: ------>
+[15Dec2024 21:38:57.311] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:FriendlyByteBuf 
+[15Dec2024 21:38:57.311] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[3, 1, 1, 10, 1, 0, 1, 6, 3, 3, -99, 39, -32, 50, 89, 27, -41, 101, 118, 104, 35, -125]"
+]
+[15Dec2024 21:38:57.311] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export End: ------>
+[15Dec2024 21:38:57.312] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Dec2024 21:38:57.312] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=925, z=1073200}"
+}
+[15Dec2024 21:38:57.313] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Dec2024 21:38:57.313] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[39, -32, 50, 89, 27, -41, 101, 118, 104, 35, -125]"
+]
+[15Dec2024 21:38:58.725] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Decoding error for packet:unknown
+java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.ConnectionProtocol$PacketSet.m_178327_(ConnectionProtocol.java:458) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.ConnectionProtocol.m_178321_(ConnectionProtocol.java:522) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.PacketDecoder.redirect$zbj000$checkDecodingError(PacketDecoder.java:568) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.PacketDecoder.decode(PacketDecoder.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.server.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar%2383!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15Dec2024 21:38:58.726] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export: ------>
+[15Dec2024 21:38:58.726] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:FriendlyByteBuf 
+[15Dec2024 21:38:58.726] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[3, 1, 1, 10, 1, 0, 1, 6, 3, 3, -9, 118, 39, 30, -4, -107, 57, -126, -43, 127, 50, 48]"
+]
+[15Dec2024 21:38:58.726] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export End: ------>
+[15Dec2024 21:38:58.727] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Dec2024 21:38:58.727] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=1015, z=1073200}"
+}
+[15Dec2024 21:38:58.727] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Dec2024 21:38:58.727] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[118, 39, 30, -4, -107, 57, -126, -43, 127, 50, 48]"
+]
+[15Dec2024 21:38:59.383] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Decoding error for packet:unknown
+java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.ConnectionProtocol$PacketSet.m_178327_(ConnectionProtocol.java:458) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.ConnectionProtocol.m_178321_(ConnectionProtocol.java:522) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.PacketDecoder.redirect$zbj000$checkDecodingError(PacketDecoder.java:568) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.PacketDecoder.decode(PacketDecoder.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.server.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar%2383!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15Dec2024 21:38:59.385] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export: ------>
+[15Dec2024 21:38:59.385] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:FriendlyByteBuf 
+[15Dec2024 21:38:59.386] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[3, 1, 1, 10, 1, 0, 1, 6, 3, 3, -90, -111, -95, -102, -40, 30, 41, -109, 28, 48, -67, -15]"
+]
+[15Dec2024 21:38:59.386] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export End: ------>
+[15Dec2024 21:38:59.387] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Dec2024 21:38:59.387] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=934, z=1073200}"
+}
+[15Dec2024 21:38:59.388] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Dec2024 21:38:59.388] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-111, -95, -102, -40, 30, 41, -109, 28, 48, -67, -15]"
+]
+[15Dec2024 21:38:59.509] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Decoding error for packet:unknown
+java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.ConnectionProtocol$PacketSet.m_178327_(ConnectionProtocol.java:458) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.ConnectionProtocol.m_178321_(ConnectionProtocol.java:522) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.PacketDecoder.redirect$zbj000$checkDecodingError(PacketDecoder.java:568) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.PacketDecoder.decode(PacketDecoder.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.server.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar%2383!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15Dec2024 21:38:59.511] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export: ------>
+[15Dec2024 21:38:59.511] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:FriendlyByteBuf 
+[15Dec2024 21:38:59.511] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[3, 1, 1, 10, 1, 0, 1, 6, 3, 3, -10, 76, -5, -47, 72, -75, -92, 2, -32, 44, -109, -101]"
+]
+[15Dec2024 21:38:59.511] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export End: ------>
+[15Dec2024 21:38:59.512] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Dec2024 21:38:59.512] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=1014, z=1073200}"
+}
+[15Dec2024 21:38:59.513] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Dec2024 21:38:59.513] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[76, -5, -47, 72, -75, -92, 2, -32, 44, -109, -101]"
+]
+[15Dec2024 21:39:00.173] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Decoding error for packet:unknown
+java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.ConnectionProtocol$PacketSet.m_178327_(ConnectionProtocol.java:458) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.ConnectionProtocol.m_178321_(ConnectionProtocol.java:522) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.PacketDecoder.redirect$zbj000$checkDecodingError(PacketDecoder.java:568) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.PacketDecoder.decode(PacketDecoder.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.server.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar%2383!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15Dec2024 21:39:00.174] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export: ------>
+[15Dec2024 21:39:00.174] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:FriendlyByteBuf 
+[15Dec2024 21:39:00.174] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[3, 1, 1, 10, 1, 0, 1, 6, 3, 3, 34, -99, -88, -33, -124, 49, 83, 110, 42, -113, 66, -31]"
+]
+[15Dec2024 21:39:00.174] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export End: ------>
+[15Dec2024 21:39:00.174] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Dec2024 21:39:00.175] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=802, z=1073200}"
+}
+[15Dec2024 21:39:00.175] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Dec2024 21:39:00.175] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-99, -88, -33, -124, 49, 83, 110, 42, -113, 66, -31]"
+]
+[15Dec2024 21:39:00.240] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Decoding error for packet:unknown
+java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.ConnectionProtocol$PacketSet.m_178327_(ConnectionProtocol.java:458) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.ConnectionProtocol.m_178321_(ConnectionProtocol.java:522) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.PacketDecoder.redirect$zbj000$checkDecodingError(PacketDecoder.java:568) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.PacketDecoder.decode(PacketDecoder.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.server.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar%2383!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15Dec2024 21:39:00.241] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export: ------>
+[15Dec2024 21:39:00.241] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:FriendlyByteBuf 
+[15Dec2024 21:39:00.241] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[3, 1, 1, 10, 1, 0, 1, 6, 3, 3, 9, 13, -118, 76, 2, 104, 37, 96, -5, -34, -52, -8]"
+]
+[15Dec2024 21:39:00.241] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export End: ------>
+[15Dec2024 21:39:00.242] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Dec2024 21:39:00.242] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=777, z=1073200}"
+}
+[15Dec2024 21:39:00.242] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Dec2024 21:39:00.242] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[13, -118, 76, 2, 104, 37, 96, -5, -34, -52, -8]"
+]
+[15Dec2024 21:39:00.698] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Decoding error for packet:unknown
+java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.ConnectionProtocol$PacketSet.m_178327_(ConnectionProtocol.java:458) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.ConnectionProtocol.m_178321_(ConnectionProtocol.java:522) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.PacketDecoder.redirect$zbj000$checkDecodingError(PacketDecoder.java:568) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.PacketDecoder.decode(PacketDecoder.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.server.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar%2383!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15Dec2024 21:39:00.699] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export: ------>
+[15Dec2024 21:39:00.699] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:FriendlyByteBuf 
+[15Dec2024 21:39:00.700] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[3, 1, 1, 10, 1, 0, 1, 6, 3, 3, 112, 54, 77, 127, -55, 46, 115, 37, -124, -63, -21, -43]"
+]
+[15Dec2024 21:39:00.700] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export End: ------>
+[15Dec2024 21:39:00.700] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Dec2024 21:39:00.701] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=880, z=1073200}"
+}
+[15Dec2024 21:39:00.701] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Dec2024 21:39:00.701] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[54, 77, 127, -55, 46, 115, 37, -124, -63, -21, -43]"
+]
+[15Dec2024 21:39:00.880] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Decoding error for packet:unknown
+java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.ConnectionProtocol$PacketSet.m_178327_(ConnectionProtocol.java:458) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.ConnectionProtocol.m_178321_(ConnectionProtocol.java:522) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.PacketDecoder.redirect$zbj000$checkDecodingError(PacketDecoder.java:568) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.PacketDecoder.decode(PacketDecoder.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.server.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar%2383!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15Dec2024 21:39:00.881] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export: ------>
+[15Dec2024 21:39:00.881] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:FriendlyByteBuf 
+[15Dec2024 21:39:00.881] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[3, 1, 1, 10, 1, 0, 1, 6, 3, 3, -121, -101, -45, 22, 47, -109, -65, -70, 113, -93, -3, 12]"
+]
+[15Dec2024 21:39:00.882] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export End: ------>
+[15Dec2024 21:39:00.882] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Dec2024 21:39:00.882] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=903, z=1073200}"
+}
+[15Dec2024 21:39:00.883] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Dec2024 21:39:00.883] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-101, -45, 22, 47, -109, -65, -70, 113, -93, -3, 12]"
+]
+[15Dec2024 21:39:01.349] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Decoding error for packet:unknown
+java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.ConnectionProtocol$PacketSet.m_178327_(ConnectionProtocol.java:458) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.ConnectionProtocol.m_178321_(ConnectionProtocol.java:522) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.PacketDecoder.redirect$zbj000$checkDecodingError(PacketDecoder.java:568) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.PacketDecoder.decode(PacketDecoder.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.server.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar%2383!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15Dec2024 21:39:01.349] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export: ------>
+[15Dec2024 21:39:01.350] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:FriendlyByteBuf 
+[15Dec2024 21:39:01.350] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[3, 1, 1, 10, 1, 0, 1, 6, 3, 3, -74, -88, -44, -87, 22, 126, -60, 95, -2, -128, -13, 121]"
+]
+[15Dec2024 21:39:01.350] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export End: ------>
+[15Dec2024 21:39:01.350] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Dec2024 21:39:01.351] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=950, z=1073200}"
+}
+[15Dec2024 21:39:01.351] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Dec2024 21:39:01.351] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-88, -44, -87, 22, 126, -60, 95, -2, -128, -13, 121]"
+]
+[15Dec2024 21:39:02.734] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Decoding error for packet:unknown
+java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.ConnectionProtocol$PacketSet.m_178327_(ConnectionProtocol.java:458) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.ConnectionProtocol.m_178321_(ConnectionProtocol.java:522) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.PacketDecoder.redirect$zbj000$checkDecodingError(PacketDecoder.java:568) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.PacketDecoder.decode(PacketDecoder.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.server.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar%2383!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15Dec2024 21:39:02.735] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export: ------>
+[15Dec2024 21:39:02.735] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:FriendlyByteBuf 
+[15Dec2024 21:39:02.735] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[3, 1, 1, 10, 1, 0, 1, 6, 3, 3, -28, 114, -32, 51, -49, -69, 116, -63, 22, 67, -88, 28]"
+]
+[15Dec2024 21:39:02.735] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export End: ------>
+[15Dec2024 21:39:02.736] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Dec2024 21:39:02.736] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=996, z=1073200}"
+}
+[15Dec2024 21:39:02.736] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Dec2024 21:39:02.736] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[114, -32, 51, -49, -69, 116, -63, 22, 67, -88, 28]"
+]
+[15Dec2024 21:39:24.412] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Decoding error for packet:unknown
+java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.ConnectionProtocol$PacketSet.m_178327_(ConnectionProtocol.java:458) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.ConnectionProtocol.m_178321_(ConnectionProtocol.java:522) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.PacketDecoder.redirect$zbj000$checkDecodingError(PacketDecoder.java:568) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.PacketDecoder.decode(PacketDecoder.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.server.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar%2383!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15Dec2024 21:39:24.413] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export: ------>
+[15Dec2024 21:39:24.413] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:FriendlyByteBuf 
+[15Dec2024 21:39:24.413] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[3, 1, 1, 22, 1, 0, 1, 18, 3, 3, -90, -61, -107, 82, 82, -121, -44, -106, -45, 79, -14, 43]"
+]
+[15Dec2024 21:39:24.413] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export End: ------>
+[15Dec2024 21:39:24.414] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Dec2024 21:39:24.414] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=934, z=1122352}"
+}
+[15Dec2024 21:39:24.414] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Dec2024 21:39:24.415] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-61, -107, 82, 82, -121, -44, -106, -45, 79, -14, 43]"
+]
+[15Dec2024 21:39:24.667] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Decoding error for packet:unknown
+java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.ConnectionProtocol$PacketSet.m_178327_(ConnectionProtocol.java:458) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.ConnectionProtocol.m_178321_(ConnectionProtocol.java:522) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.PacketDecoder.redirect$zbj000$checkDecodingError(PacketDecoder.java:568) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.PacketDecoder.decode(PacketDecoder.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.server.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar%2383!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15Dec2024 21:39:24.668] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export: ------>
+[15Dec2024 21:39:24.668] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:FriendlyByteBuf 
+[15Dec2024 21:39:24.668] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[3, 1, 0, -31, 1, 0, 0, -35, 3, 3, -102, -17, 38, 63, -82, 80, 98, 106, 40, -23, -63, 124]"
+]
+[15Dec2024 21:39:24.668] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export End: ------>
+[15Dec2024 21:39:24.669] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Dec2024 21:39:24.669] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-8125440, y=922, z=905264}"
+}
+[15Dec2024 21:39:24.669] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Dec2024 21:39:24.669] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-17, 38, 63, -82, 80, 98, 106, 40, -23, -63, 124]"
+]
+[15Dec2024 21:39:27.083] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Decoding error for packet:unknown
+java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.ConnectionProtocol$PacketSet.m_178327_(ConnectionProtocol.java:458) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.ConnectionProtocol.m_178321_(ConnectionProtocol.java:522) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.PacketDecoder.redirect$zbj000$checkDecodingError(PacketDecoder.java:568) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.network.PacketDecoder.decode(PacketDecoder.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.server.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar%2383!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15Dec2024 21:39:27.084] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export: ------>
+[15Dec2024 21:39:27.084] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:FriendlyByteBuf 
+[15Dec2024 21:39:27.084] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[3, 1, 0, -43, 1, 0, 0, -47, 3, 3, -6, 16, -100, -6, -51, -117, 116, -94, -71, 15, 13, 110]"
+]
+[15Dec2024 21:39:27.084] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: <------ Packet Data Export End: ------>
+[15Dec2024 21:39:27.084] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Dec2024 21:39:27.085] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-11271168, y=1018, z=856112}"
+}
+[15Dec2024 21:39:27.085] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Dec2024 21:39:27.085] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[16, -100, -6, -51, -117, 116, -94, -71, 15, 13, 110]"
+]
