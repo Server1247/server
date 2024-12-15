@@ -1681,3 +1681,25 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [15Dec2024 19:37:14.884] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-660, y=278, z=-1817} BlockPos{x=-660, y=278, z=-1815}
 [15Dec2024 19:37:14.926] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-660, y=278, z=-1818} BlockPos{x=-660, y=278, z=-1815}
 [15Dec2024 19:37:14.979] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-660, y=278, z=-1818} BlockPos{x=-660, y=278, z=-1815}
+[15Dec2024 19:38:46.375] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EscorpionXL lost connection: Disconnected
+[15Dec2024 19:38:46.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL left the game
+[15Dec2024 19:38:46.376] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EscorpionXL
+[15Dec2024 19:39:29.989] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EscorpionXL[/127.182.234.102:42991] logged in with entity id 157389 at (-1331.470724962888, 67.0, 2550.9767066630307)
+[15Dec2024 19:39:29.990] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to EscorpionXL
+[15Dec2024 19:39:29.991] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to EscorpionXL
+[15Dec2024 19:39:29.991] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to EscorpionXL
+[15Dec2024 19:39:29.991] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to EscorpionXL
+[15Dec2024 19:39:29.993] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to EscorpionXL
+[15Dec2024 19:39:29.995] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to EscorpionXL
+[15Dec2024 19:39:29.995] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to EscorpionXL
+[15Dec2024 19:39:30.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL joined the game
+[15Dec2024 19:39:31.465] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EscorpionXL (18)
+[15Dec2024 19:39:31.466] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EscorpionXL
+[15Dec2024 19:39:34.231] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e1eccfd1-1cad-310e-b221-7630578cd28e
+[15Dec2024 19:39:35.207] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e1eccfd1-1cad-310e-b221-7630578cd28e
+[15Dec2024 19:39:35.207] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EscorpionXL (e1eccfd1-1cad-310e-b221-7630578cd28e) successfully connected to voice chat
+[15Dec2024 19:39:42.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Herobrine tambien JAJAJA
+[15Dec2024 19:39:47.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> JAJAJAJJAJ
+[15Dec2024 19:41:24.474] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[15Dec2024 19:43:15.773] [Worker-Main-23/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[15Dec2024 19:45:32.720] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
