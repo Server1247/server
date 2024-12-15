@@ -1389,3 +1389,55 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
   "[-88, 0, 104, -24, -65, 7, 113, -30, 120, 16, 3]"
 ]
 [15Dec2024 19:06:03.161] [Server thread/INFO] [Scaling Health/]: Blight Husk has died
+[15Dec2024 19:09:54.711] [Server thread/INFO] [Scaling Health/]: Blight Husk has died
+[15Dec2024 19:11:11.722] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[15Dec2024 19:11:13.605] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[15Dec2024 19:11:13.646] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes
+[15Dec2024 19:11:28.166] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[15Dec2024 19:11:28.169] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
+[15Dec2024 19:11:28.209] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/62061, l='ServerLevel[world]', x=-1375.75, y=-256.00, z=2579.13] died, message: 'Villager was killed'
+[15Dec2024 19:11:39.214] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[15Dec2024 19:11:39.215] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[15Dec2024 19:11:39.222] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[15Dec2024 19:12:40.685] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xCarlosJaraX[/127.245.147.152:43435] logged in with entity id 68622 at (-650.310970556423, 277.0, -1812.8236127570535)
+[15Dec2024 19:12:40.686] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to xCarlosJaraX
+[15Dec2024 19:12:40.687] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to xCarlosJaraX
+[15Dec2024 19:12:40.688] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to xCarlosJaraX
+[15Dec2024 19:12:40.688] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to xCarlosJaraX
+[15Dec2024 19:12:40.693] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to xCarlosJaraX
+[15Dec2024 19:12:40.697] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to xCarlosJaraX
+[15Dec2024 19:12:40.698] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to xCarlosJaraX
+[15Dec2024 19:12:40.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX joined the game
+[15Dec2024 19:12:42.558] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xCarlosJaraX lost connection: Disconnected
+[15Dec2024 19:12:42.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX left the game
+[15Dec2024 19:12:42.563] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xCarlosJaraX
+[15Dec2024 19:13:17.819] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3b56b1e8[id=<null>,name=xCarlosJaraX,properties={},legacy=false] (/127.245.147.152:35833) lost connection: Disconnected
+[15Dec2024 19:13:25.693] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xCarlosJaraX[/127.245.147.152:39761] logged in with entity id 72729 at (-650.310970556423, 277.0, -1812.8236127570535)
+[15Dec2024 19:13:25.694] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to xCarlosJaraX
+[15Dec2024 19:13:25.694] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to xCarlosJaraX
+[15Dec2024 19:13:25.695] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to xCarlosJaraX
+[15Dec2024 19:13:25.695] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to xCarlosJaraX
+[15Dec2024 19:13:25.698] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to xCarlosJaraX
+[15Dec2024 19:13:25.701] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to xCarlosJaraX
+[15Dec2024 19:13:25.701] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to xCarlosJaraX
+[15Dec2024 19:13:25.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX joined the game
+[15Dec2024 19:13:26.004] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xCarlosJaraX (18)
+[15Dec2024 19:13:26.005] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xCarlosJaraX
+[15Dec2024 19:13:36.381] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c2a23614-6a93-3a01-be93-db0eeadf10ae
+[15Dec2024 19:13:37.382] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c2a23614-6a93-3a01-be93-db0eeadf10ae
+[15Dec2024 19:13:37.383] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) successfully connected to voice chat
+[15Dec2024 19:13:58.999] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[15Dec2024 19:13:59.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Buenaas
+[15Dec2024 19:14:00.162] [Server thread/INFO] [Scaling Health/]: Blight Husk has died
+[15Dec2024 19:14:14.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> bueenaaas
+[15Dec2024 19:14:18.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> y graciaaas
+[15Dec2024 19:14:23.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> bofff
+[15Dec2024 19:14:28.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> JAJAAJ ya lo viste?
+[15Dec2024 19:14:31.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> siii
+[15Dec2024 19:15:07.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> boff
+[15Dec2024 19:15:30.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Hubiera querido darte armaduras mejores pero no tenía más jajja
+[15Dec2024 19:15:46.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> no te preocupes, que esa esta geniaaal
+[15Dec2024 19:16:16.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> bofffff
+[15Dec2024 19:16:24.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> estoy re contento con esto, graciaaas
+[15Dec2024 19:16:44.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> JAJAJAJA, no pasa nada
+[15Dec2024 19:16:47.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Gracias a vos
