@@ -1703,3 +1703,6 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [15Dec2024 19:41:24.474] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
 [15Dec2024 19:43:15.773] [Worker-Main-23/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
 [15Dec2024 19:45:32.720] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[15Dec2024 20:05:01.209] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/244649, l='ServerLevel[world]', x=-1375.75, y=-256.00, z=2579.13] died, message: 'Villager was killed'
+[15Dec2024 20:06:26.158] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/248108, l='ServerLevel[world]', x=-666.33, y=-256.00, z=-1760.50] died, message: 'Villager was killed'
+[15Dec2024 20:06:42.210] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/251333, l='ServerLevel[world]', x=-1375.75, y=-256.00, z=2579.13] died, message: 'Villager was killed'
