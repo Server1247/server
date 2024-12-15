@@ -2272,3 +2272,4 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
   "[-98, -67, -95, -38, -98, -76, 90, -32, 67, -127, 68]"
 ]
 [15Dec2024 20:45:08.214] [Server thread/INFO] [Scaling Health/]: Blight Glow Squid has died
+[15Dec2024 21:03:47.070] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/cyclops/cyclopscore/algorithm/Dimension
