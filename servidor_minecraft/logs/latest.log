@@ -3097,3 +3097,5 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
   "<partial numeric data>",
   "[16, -100, -6, -51, -117, 116, -94, -71, 15, 13, 110]"
 ]
+[15Dec2024 21:45:53.160] [Server thread/INFO] [Scaling Health/]: Blight Husk has died
+[15Dec2024 21:49:15.559] [Server thread/INFO] [Scaling Health/]: Blight Husk has died
