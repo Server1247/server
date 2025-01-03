@@ -1218,7 +1218,8 @@
       "minecraft:skeleton": "2024-11-28 03:01:02 +0000",
       "minecraft:silverfish": "2024-12-01 04:22:53 +0000",
       "minecraft:zombie": "2024-12-01 04:13:07 +0000",
-      "minecraft:drowned": "2024-12-01 19:00:31 +0000"
+      "minecraft:drowned": "2024-12-01 19:00:31 +0000",
+      "minecraft:zombie_villager": "2025-01-03 04:35:00 +0000"
     },
     "done": false
   },
@@ -5702,78 +5703,108 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-01-03 04:25:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-01-03 04:28:27 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-04 02:47:52 +0000"
+      "log_spam_fixer": "2025-01-03 05:42:14 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2024-12-04 02:47:52 +0000",
-      "log_spam_fixer": "2024-12-04 02:47:52 +0000"
+      "requirement": "2025-01-03 05:42:17 +0000",
+      "log_spam_fixer": "2025-01-03 05:42:14 +0000"
     },
     "done": true
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-04 02:47:52 +0000"
+      "log_spam_fixer": "2025-01-03 05:42:14 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-04 02:47:52 +0000"
+      "log_spam_fixer": "2025-01-03 05:42:14 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-04 02:47:52 +0000"
+      "log_spam_fixer": "2025-01-03 05:42:14 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-04 02:47:52 +0000"
+      "log_spam_fixer": "2025-01-03 05:42:14 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-04 02:47:52 +0000"
+      "log_spam_fixer": "2025-01-03 05:42:14 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-04 02:47:52 +0000"
+      "log_spam_fixer": "2025-01-03 05:42:14 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-04 02:47:52 +0000"
+      "log_spam_fixer": "2025-01-03 05:42:14 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-04 02:47:52 +0000"
+      "log_spam_fixer": "2025-01-03 05:42:14 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-04 02:47:52 +0000"
+      "log_spam_fixer": "2025-01-03 05:42:14 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-04 02:47:52 +0000"
+      "log_spam_fixer": "2025-01-03 05:42:14 +0000"
     },
     "done": false
+  },
+  "evilcraft:cannibal": {
+    "criteria": {
+      "criteria_0": "2025-01-03 04:36:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-01-03 04:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-01-03 05:01:47 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
